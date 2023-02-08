@@ -16,6 +16,7 @@ export const useGhibloux = (ghibloux: string[]) => {
       };
     }),
   });
+  console.log('file: useGhiblou.ts:19 ~ useGhibloux ~ userQueries', userQueries)
 
-  return useQueries;
+  return userQueries;
 };

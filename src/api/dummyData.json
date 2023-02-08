@@ -1,0 +1,2459 @@
+{
+  "castle in the sky": {
+    "title": "Castle in the sky",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/f/f5/Castle_in_the_Sky_%281986%29.png",
+    "genre": "Fantasy/Adventure",
+    "rating": "PG",
+    "release": "August 2, 1986",
+    "director": "Hayao Miyazaki",
+    "screenwriters": ["Hayao Miyazaki"],
+    "producers": ["Isao Takahata"],
+    "music": "Joe Hisaishi",
+    "hepburn": "Tenkū no Shiro Rapyuta",
+    "runtimeMinutes": "124",
+    "budgetUSD": "3,000,000",
+    "boxOfficeUSD": "16,000,000",
+    "character": [
+      {
+        "name": "Pazu",
+        "originalCast": "Mayumi Tanaka",
+        "lastEnglishDubbingActor": "James Van Der Beek",
+        "still": "https://static.wikia.nocookie.net/studio-ghibli/images/8/8b/Pazu.jpg/revision/latest?cb=20210214205023"
+      },
+      {
+        "name": "Sheeta (Princess Lucita Toel Ul Laputa)",
+        "originalCast": "Keiko Yokozawa",
+        "lastEnglishDubbingActor": "Anna Paquin",
+        "still": "https://static.wikia.nocookie.net/studio-ghibli/images/c/c3/Sheeta.jpg/revision/latest?cb=20210214130459"
+      },
+      {
+        "name": "Captain Dola",
+        "originalCast": "Kotoe Hatsui",
+        "lastEnglishDubbingActor": "Cloris Leachman",
+        "still": "https://static.wikia.nocookie.net/studio-ghibli/images/b/b3/Dola.png/revision/latest/scale-to-width-down/350?cb=20180910230438"
+      },
+      {
+        "name": "Colonel Muska (Romuska Palo Ul Laputa)",
+        "originalCast": "Minori Terada",
+        "lastEnglishDubbingActor": "Mark Hamill",
+        "still": "https://static.wikia.nocookie.net/studio-ghibli/images/d/d5/Muska.jpg/revision/latest?cb=20210516132909"
+      },
+      {
+        "name": "General Mouro",
+        "originalCast": "Ichirō Nagai",
+        "lastEnglishDubbingActor": "Jim Cummings",
+        "still": "https://static.wikia.nocookie.net/studio-ghibli/images/1/12/Muoro.jpg/revision/latest?cb=20210516135925"
+      },
+      {
+        "name": "Uncle Pom",
+        "originalCast": "Fujio Tokita",
+        "lastEnglishDubbingActor": "Richard Dysart",
+        "still": "https://static.wikia.nocookie.net/studio-ghibli/images/d/de/Uncle_Pom.png/revision/latest/scale-to-width-down/350?cb=20180809131657"
+      },
+      {
+        "name": "Charles",
+        "originalCast": "Takuzō Kamiyama",
+        "lastEnglishDubbingActor": "Michael McShane",
+        "still": "https://static.wikia.nocookie.net/studio-ghibli/images/f/f0/Charlie.jpg/revision/latest?cb=20181030030917"
+      },
+      {
+        "name": "Louis",
+        "originalCast": "Yoshito Yasuhara",
+        "lastEnglishDubbingActor": "Mandy Patinkin",
+        "still": "https://static.wikia.nocookie.net/studio-ghibli/images/2/28/Charlies.jpg/revision/latest?cb=20181031025246"
+      },
+      {
+        "name": "Henri",
+        "originalCast": "Sukekiyo Kamiyama",
+        "lastEnglishDubbingActor": "Andy Dick",
+        "still": "https://static.wikia.nocookie.net/studio-ghibli/images/1/15/Henri.jpg/revision/latest?cb=20181024031333"
+      },
+      {
+        "name": "Mr. Duffi (Boss)",
+        "originalCast": "Hiroshi Ito",
+        "lastEnglishDubbingActor": "John Hostetter",
+        "still": "https://static.wikia.nocookie.net/studio-ghibli/images/0/0a/Duffi.png/revision/latest?cb=20170504183048"
+      },
+      {
+        "name": "Okami",
+        "originalCast": "Machiko Washio",
+        "lastEnglishDubbingActor": "Tress MacNeille",
+        "still": "https://static.wikia.nocookie.net/studio-ghibli/images/6/65/Okami.jpg/revision/latest/scale-to-width-down/350?cb=20181031011501"
+      },
+      {
+        "name": "Madge",
+        "originalCast": "Tarako",
+        "lastEnglishDubbingActor": "Debi Derryberry",
+        "still": "https://static.wikia.nocookie.net/studio-ghibli/images/0/0e/Madge.jpg/revision/latest?cb=20181031010512"
+      },
+      {
+        "name": "Motro",
+        "originalCast": "Ryūji Saikachi",
+        "lastEnglishDubbingActor": "Eddie Frierson",
+        "still": "https://static.wikia.nocookie.net/studio-ghibli/images/1/17/Eggman_laputa.jpg/revision/latest?cb=20181031021525"
+      },
+      {
+        "name": "Train Operator",
+        "originalCast": "Tomomichi Nishimura",
+        "lastEnglishDubbingActor": "Matt K. Miller",
+        "still": "https://static.wikia.nocookie.net/studio-ghibli/images/1/1d/Castle_in_the_Sky_010.jpg/revision/latest/scale-to-width-down/350?cb=20200516011450"
+      }
+    ],
+    "awards": [
+      "Ōfuji Noburō Award; Mainichi Film Award",
+      "First Place; Pia Ten (Best Films of the Year)",
+      "First Place; Japanese Movies; City Road",
+      "First Place; Japanese Movies; Eiga Geijutsu (Movie Art)",
+      "First Place; Japanese Films Best 10; Osaka Film Festival",
+      "Eighth Place; Japanese Films; Kinema Junpo Best 10",
+      "Second Place; Readers' Choice; Kinema Junpo Best 10",
+      "Best Anime; 9th Anime Grand Prix",
+      "Special Recommendation; The Central Committee for Children's Welfare",
+      "Special Award (to Miyazaki & Takahata); Revival of Japanese Movies",
+      "Best Design Award; Anime"
+    ],
+    "synopsis": "A young girl with a mysterious pendant falls out of the sky and into the life of young Pazu. Together they search for an island in the sky, site of a civilization promising enormous wealth and power to those who can unlock its secrets.",
+    "reviews": { "rottenTomatoes": "96%", "imdb": "8/10" }
+  },
+  "grave of the fireflies": {
+    "title": "Grave of the Fireflies",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/a/a5/Grave_of_the_Fireflies_Japanese_poster.jpg",
+    "genre": "War/Drama",
+    "rating": "Not Rated",
+    "release": "April 16, 1988",
+    "director": "Isao Takahata",
+    "screenwriters": ["Isao Takahata"],
+    "producers": ["Tōru Hara"],
+    "music": "Michio Mamiya",
+    "hepburn": "Hotaru no Haka",
+    "runtimeMinutes": "89",
+    "budgetUSD": "N/A",
+    "boxOfficeUSD": "516,962",
+    "character": [
+      {
+        "name": "Seita Yokokawa",
+        "originalCast": "Tsutomu Tatsumi",
+        "lastEnglishDubbingActor": "Adam Gibbs",
+        "still": ""
+      },
+      {
+        "name": "Setsuko Yokokawa",
+        "originalCast": "Ayano Shiraishi",
+        "lastEnglishDubbingActor": "Emily Neves",
+        "still": ""
+      },
+      {
+        "name": "Mrs. Yokokawa",
+        "originalCast": "Yoshiko Shinohara",
+        "lastEnglishDubbingActor": "Shelley Calene-Black",
+        "still": ""
+      },
+      {
+        "name": "Seita and Setsuko's aunt",
+        "originalCast": "Akemi Yamaguchi",
+        "lastEnglishDubbingActor": "Marcy Bannor",
+        "still": ""
+      },
+      {
+        "name": "Seita and Setsuko's cousin",
+        "originalCast": "Kazumi Nozaki",
+        "lastEnglishDubbingActor": "Shannon Conley",
+        "still": ""
+      },
+      {
+        "name": "Farmer",
+        "originalCast": "N/A",
+        "lastEnglishDubbingActor": "Dan Green",
+        "still": ""
+      },
+      {
+        "name": "Doctor",
+        "originalCast": "Michio Denpō",
+        "lastEnglishDubbingActor": "Crispin Freeman",
+        "still": ""
+      },
+      {
+        "name": "Old man",
+        "originalCast": "N/A",
+        "lastEnglishDubbingActor": "Crispin Freeman",
+        "still": ""
+      },
+      {
+        "name": "Train station worker",
+        "originalCast": "Teruhisa Harita",
+        "lastEnglishDubbingActor": "Andrew Love",
+        "still": ""
+      }
+    ],
+    "awards": [
+      "Blue Ribbon Awards; Special Award",
+      "Chicago International Children's Film Festival; Animation Jury Award, Rights of the Child Award"
+    ],
+    "synopsis": "A devastating meditation on the human cost of war, this animated tale follows Seita (Tsutomu Tatsumi), a teenager charged with the care of his younger sister, Setsuko (Ayano Shiraishi), after an American firebombing during World War II separates the two children from their parents. Their tale of survival is as heartbreaking as it is true to life. The siblings rely completely on each other and struggle against all odds to stay together and stay alive.",
+    "reviews": { "rottenTomatoes": "100%", "imdb": "8.5/10" }
+  },
+  "my neighbor totoro": {
+    "title": "My Neighbor Totoro",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/My_Neighbor_Totoro_-_Tonari_no_Totoro_%28Movie_Poster%29.jpg/220px-My_Neighbor_Totoro_-_Tonari_no_Totoro_%28Movie_Poster%29.jpg",
+    "genre": "Fantasy/Family",
+    "rating": "G",
+    "release": "April 16, 1988",
+    "director": "Hayao Miyazaki",
+    "screenwriters": ["Hayao Miyazaki"],
+    "producers": ["Tōru Hara"],
+    "music": "Joe Hisaishi",
+    "hepburn": "Tonari no Totoro",
+    "runtimeMinutes": "86",
+    "budgetUSD": "N/A",
+    "boxOfficeUSD": "41,000,000",
+    "character": [
+      {
+        "name": "Satsuki Kusakabe",
+        "originalCast": "Noriko Hidaka",
+        "lastEnglishDubbingActor": "Dakota Fanning",
+        "still": ""
+      },
+      {
+        "name": "Mei Kusakabe",
+        "originalCast": "Chika Sakamoto",
+        "lastEnglishDubbingActor": "Elle Fanning",
+        "still": ""
+      },
+      {
+        "name": "Tatsuo Kusakabe",
+        "originalCast": "Shigesato Itoi",
+        "lastEnglishDubbingActor": "Tim Daly",
+        "still": ""
+      },
+      {
+        "name": "Yasuko Kusakabe",
+        "originalCast": "Sumi Shimamoto",
+        "lastEnglishDubbingActor": "Lea Salonga",
+        "still": ""
+      },
+      {
+        "name": "Totoro",
+        "originalCast": "Hitoshi Takagi",
+        "lastEnglishDubbingActor": "Frank Welker",
+        "still": ""
+      },
+      {
+        "name": "Kanta Ōgaki",
+        "originalCast": "Toshiyuki Amagasa",
+        "lastEnglishDubbingActor": "Paul Butcher",
+        "still": ""
+      },
+      {
+        "name": "Granny",
+        "originalCast": "Tanie Kitabayashi",
+        "lastEnglishDubbingActor": "Pat Carroll",
+        "still": ""
+      },
+      {
+        "name": "Catbus",
+        "originalCast": "Naoki Tatsuta",
+        "lastEnglishDubbingActor": "Frank Welker",
+        "still": ""
+      },
+      {
+        "name": "Michiko",
+        "originalCast": "Chie Kōjiro",
+        "lastEnglishDubbingActor": "Ashley Rose Orr",
+        "still": ""
+      },
+      {
+        "name": "Mrs. Ogaki",
+        "originalCast": "Hiroko Maruyama",
+        "lastEnglishDubbingActor": "Kath Soucie",
+        "still": ""
+      },
+      {
+        "name": "Mr. Ogaki",
+        "originalCast": "Masashi Hirose",
+        "lastEnglishDubbingActor": "David Midthunder",
+        "still": ""
+      },
+      {
+        "name": "Old Farmer",
+        "originalCast": "N/A",
+        "lastEnglishDubbingActor": "Peter Renaday",
+        "still": ""
+      },
+      {
+        "name": "Miss Hara",
+        "originalCast": "Machiko Washio",
+        "lastEnglishDubbingActor": "Tress MacNeille",
+        "still": ""
+      },
+      {
+        "name": "Kanta's Aunt",
+        "originalCast": "Reiko Suzuki",
+        "lastEnglishDubbingActor": "Russi Taylor",
+        "still": ""
+      },
+      {
+        "name": "Otoko",
+        "originalCast": "Daiki Nakamura",
+        "lastEnglishDubbingActor": "Matt Adler",
+        "still": ""
+      },
+      {
+        "name": "Ryōko",
+        "originalCast": "Yūko Mizutani",
+        "lastEnglishDubbingActor": "Bridget Hoffman",
+        "still": ""
+      },
+      {
+        "name": "Bus Attendant",
+        "originalCast": "N/A",
+        "lastEnglishDubbingActor": "Kath Soucie",
+        "still": ""
+      },
+      {
+        "name": "Mailman",
+        "originalCast": "Tomomichi Nishimura",
+        "lastEnglishDubbingActor": "Robert Clotworthy",
+        "still": ""
+      },
+      {
+        "name": "Moving Man",
+        "originalCast": "Shigeru Chiba",
+        "lastEnglishDubbingActor": "Newell Alexander",
+        "still": ""
+      }
+    ],
+    "awards": [
+      "Kinema Junpo Awards; Kinema Junpo Award - Best Film, Readers' Choice Award - Best Japanese Film",
+      "Mainichi Film Award; Best Film, Ōfuji Noburō Award",
+      "Blue Ribbon Awards; Special Award",
+      "Animage Anime Awards; Grand Prix prize",
+      "Saturn Awards; Best Genre Video Release (nomination)"
+    ],
+    "synopsis": "When Satsuki and Mei move into their new home, they soon encounter strange and delightful creatures, including Totoro, a gentle forest spirit. Totoro takes them on a series of adventures in this deceptively simple, endearing tale.",
+    "reviews": { "rottenTomatoes": "95%", "imdb": "8.1/10" }
+  },
+  "kiki's delivery service": {
+    "title": "Kiki's Delivery Service",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/0/07/Kiki%27s_Delivery_Service_%28Movie%29.jpg",
+    "genre": "Adventure/Family",
+    "rating": "G",
+    "release": "July 29, 1989",
+    "director": "Hayao Miyazaki",
+    "screenwriters": ["Hayao Miyazaki"],
+    "producers": ["Hayao Miyazaki"],
+    "music": "Joe Hisaishi",
+    "hepburn": "Majo no Takkyūbin",
+    "runtimeMinutes": "103",
+    "budgetUSD": "6,900,000",
+    "boxOfficeUSD": "41,800,800",
+    "character": [
+      {
+        "name": "Kiki",
+        "originalCast": "Minami Takayama",
+        "lastEnglishDubbingActor": "Kirsten Dunst",
+        "still": ""
+      },
+      {
+        "name": "Jiji",
+        "originalCast": "Rei Sakuma",
+        "lastEnglishDubbingActor": "Phil Hartman",
+        "still": ""
+      },
+      {
+        "name": "Osono",
+        "originalCast": "Keiko Toda",
+        "lastEnglishDubbingActor": "Tress MacNeille",
+        "still": ""
+      },
+      {
+        "name": "Ursula",
+        "originalCast": "Minami Takayama",
+        "lastEnglishDubbingActor": "Janeane Garofalo",
+        "still": ""
+      },
+      {
+        "name": "Tombo",
+        "originalCast": "Kappei Yamaguchi",
+        "lastEnglishDubbingActor": "Matthew Lawrence",
+        "still": ""
+      },
+      {
+        "name": "Fukuo",
+        "originalCast": "Kōichi Yamadera",
+        "lastEnglishDubbingActor": "Brian Cummings",
+        "still": ""
+      },
+      {
+        "name": "Kokiri (Kiki's mother)",
+        "originalCast": "Mieko Nobusawa",
+        "lastEnglishDubbingActor": "Kath Soucie",
+        "still": ""
+      },
+      {
+        "name": "Okino (Kiki's father)",
+        "originalCast": "Kōichi Miura",
+        "lastEnglishDubbingActor": "Jeff Bennett",
+        "still": ""
+      },
+      {
+        "name": "Madame",
+        "originalCast": "Haruko Kato",
+        "lastEnglishDubbingActor": "Debbie Reynolds",
+        "still": ""
+      },
+      {
+        "name": "Barsa",
+        "originalCast": "Hiroko Seki",
+        "lastEnglishDubbingActor": "Edie McClurg",
+        "still": ""
+      },
+      {
+        "name": "Senior Witch",
+        "originalCast": "Yūko Kobayashi",
+        "lastEnglishDubbingActor": "Debi Derryberry",
+        "still": ""
+      },
+      {
+        "name": "Madame's Granddaughter",
+        "originalCast": "Keiko Kagimoto",
+        "lastEnglishDubbingActor": "Sherry Lynn",
+        "still": ""
+      },
+      {
+        "name": "Ket",
+        "originalCast": "Yuriko Fuchizaki",
+        "lastEnglishDubbingActor": "Pamela Segall",
+        "still": ""
+      },
+      {
+        "name": "Maki (Ket's aunt)",
+        "originalCast": "Kikuko Inoue",
+        "lastEnglishDubbingActor": "Julia Fletcher",
+        "still": ""
+      },
+      {
+        "name": "Ket's mother",
+        "originalCast": "Mika Doi",
+        "lastEnglishDubbingActor": "Julia Fletcher",
+        "still": ""
+      },
+      {
+        "name": "Ket's father",
+        "originalCast": "Takaya Hashi",
+        "lastEnglishDubbingActor": "John DeMita",
+        "still": ""
+      },
+      {
+        "name": "Ket's grandmother",
+        "originalCast": "Yoshiko Asai",
+        "lastEnglishDubbingActor": "Julia Fletcher",
+        "still": ""
+      },
+      {
+        "name": "Miss Dora",
+        "originalCast": "Shō Saito",
+        "lastEnglishDubbingActor": "Fay Dewitt",
+        "still": ""
+      },
+      {
+        "name": "Truck Driver",
+        "originalCast": "Michihiro Ikemizu",
+        "lastEnglishDubbingActor": "N/A",
+        "still": ""
+      },
+      {
+        "name": "Hotel Receptionist",
+        "originalCast": "Shinpachi Tsuji",
+        "lastEnglishDubbingActor": "Matt K. Miller",
+        "still": ""
+      },
+      {
+        "name": "Policeman",
+        "originalCast": "Kōichi Yamadera",
+        "lastEnglishDubbingActor": "Matt K. Miller",
+        "still": ""
+      },
+      {
+        "name": "Radio Announcer",
+        "originalCast": "Kōichi Yamadera",
+        "lastEnglishDubbingActor": "Corey Burton",
+        "still": ""
+      },
+      {
+        "name": "Man with Push Broom",
+        "originalCast": "Takashi Taguchi",
+        "lastEnglishDubbingActor": "Jeff Bennett",
+        "still": ""
+      },
+      {
+        "name": "Dirigible Captain",
+        "originalCast": "Akio Ōtsuka",
+        "lastEnglishDubbingActor": "John Hostetter",
+        "still": ""
+      },
+      {
+        "name": "Clock Tower Caretaker",
+        "originalCast": "Tomomichi Nishimura",
+        "lastEnglishDubbingActor": "Lewis Arquette",
+        "still": ""
+      },
+      {
+        "name": "Baby",
+        "originalCast": "Chika Sakamoto",
+        "lastEnglishDubbingActor": "N/A",
+        "still": ""
+      },
+      {
+        "name": "Friends",
+        "originalCast": ["Yūko Tsuga", "Yoshiko Kamei"],
+        "lastEnglishDubbingActor": ["Lara Cody", "Barbara Goodson"],
+        "still": ""
+      },
+      {
+        "name": "Old Lady",
+        "originalCast": "Hiroko Maruyama",
+        "lastEnglishDubbingActor": "Melanie MacQueen",
+        "still": ""
+      },
+      {
+        "name": "Boy",
+        "originalCast": "Hiroko Maruyama",
+        "lastEnglishDubbingActor": "Unknown",
+        "still": ""
+      }
+    ],
+    "awards": [
+      "12th Anime Grand Prix; Best Anime, Best Female Character, Best Anime Theme Song",
+      "44th Mainichi Film Award; \tBest Animated Film",
+      "Kinema Junpo Awards; Readers' Choice Award",
+      "13th Japan Academy Prize; Special Award, Popularity Award",
+      "7th Annual Golden Gross Award; Gold, Japanese Film",
+      "The Movie's Day; Special Achievement Award",
+      "The Erandole Award; Special Award",
+      "Japan Cinema Association Award; Best Film, Best Director",
+      "Agency of Cultural Affairs; Best Film",
+      "Tokyo Metropolitan Cultural Honor; Best Film",
+      "7th Annual Money Making Director's Award; Best Director"
+    ],
+    "synopsis": "From the legendary Hayao Miyazaki comes the beloved story of a resourceful young witch who uses her broom to create a delivery service, only to lose her gift of flight in a moment of self-doubt.",
+    "reviews": { "rottenTomatoes": "98%", "imdb": "7.8/10" }
+  },
+  "only yesterday": {
+    "title": "Only Yesterday",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/OYpost.jpg/220px-OYpost.jpg",
+    "genre": "Romance/Drama",
+    "rating": "PG",
+    "release": "July 20, 1991",
+    "director": "Isao Takahata",
+    "screenwriters": ["Isao Takahata"],
+    "producers": ["Toshio Suzuki"],
+    "music": "Katz Hoshi",
+    "hepburn": "Omoide Poro Poro",
+    "runtimeMinutes": "118",
+    "budgetUSD": "N/A",
+    "boxOfficeUSD": "24,461,500",
+    "character": [
+      {
+        "name": "Taeko Okajima (age 10)",
+        "originalCast": "Yōko Honna",
+        "lastEnglishDubbingActor": "Alison Fernandez",
+        "still": ""
+      },
+      {
+        "name": "Taeko Okajima (age 27)",
+        "originalCast": "Miki Imai",
+        "lastEnglishDubbingActor": "Daisy Ridley",
+        "still": ""
+      },
+      {
+        "name": "Toshio",
+        "originalCast": "Toshirō Yanagiba",
+        "lastEnglishDubbingActor": "Dev Patel",
+        "still": ""
+      },
+      {
+        "name": "Tsuneko Tani",
+        "originalCast": "Mayumi Iizuka",
+        "lastEnglishDubbingActor": "Hope Levy",
+        "still": ""
+      },
+      {
+        "name": "Aiko",
+        "originalCast": "Mei Oshitani",
+        "lastEnglishDubbingActor": "Stephanie Sheh",
+        "still": ""
+      },
+      {
+        "name": "Toko",
+        "originalCast": "Megumi Komine",
+        "lastEnglishDubbingActor": "Ava Acres",
+        "still": ""
+      },
+      {
+        "name": "Rie",
+        "originalCast": "Yukiyo Takizawa",
+        "lastEnglishDubbingActor": "Madeleine Rose Yen",
+        "still": ""
+      },
+      {
+        "name": "Suu",
+        "originalCast": "Masashi Ishikawa",
+        "lastEnglishDubbingActor": "Jaden Betts",
+        "still": ""
+      },
+      {
+        "name": "Shuuji Hirota",
+        "originalCast": "Yūki Masuda",
+        "lastEnglishDubbingActor": "Gianella Thielmann",
+        "still": ""
+      },
+      {
+        "name": "Taeko's Mother",
+        "originalCast": "Michie Terada",
+        "lastEnglishDubbingActor": "Grey DeLisle",
+        "still": ""
+      },
+      {
+        "name": "Taeko's Father",
+        "originalCast": "Masahiro Itō",
+        "lastEnglishDubbingActor": "Matthew Yang King",
+        "still": ""
+      },
+      {
+        "name": "Nanako Okajima",
+        "originalCast": "Yorie Yamashita",
+        "lastEnglishDubbingActor": "Laura Bailey",
+        "still": ""
+      },
+      {
+        "name": "Yaeko Okajima",
+        "originalCast": "Yuki Minowa",
+        "lastEnglishDubbingActor": "Ashley Eckstein",
+        "still": ""
+      },
+      {
+        "name": "Taeko's Grandmother",
+        "originalCast": "Chie Kitagawa",
+        "lastEnglishDubbingActor": "Mona Marshall",
+        "still": ""
+      },
+      {
+        "name": "Kazuo",
+        "originalCast": "Kōji Gotō",
+        "lastEnglishDubbingActor": "Matthew Yang King",
+        "still": ""
+      },
+      {
+        "name": "Kiyoko",
+        "originalCast": "Sachiko Ishikawa",
+        "lastEnglishDubbingActor": "Sumalee Montano",
+        "still": ""
+      },
+      {
+        "name": "Naoko",
+        "originalCast": "Masako Watanabe",
+        "lastEnglishDubbingActor": "Tara Strong",
+        "still": ""
+      },
+      {
+        "name": "Granny",
+        "originalCast": "Shin Itō",
+        "lastEnglishDubbingActor": "Nika Futterman",
+        "still": ""
+      }
+    ],
+    "awards": ["International Online Cinema Awards; Best Animated Feature"],
+    "synopsis": "It's 1982, and Taeko is 27 years old, unmarried, and has lived her whole life in Tokyo. She decides to visit her relatives in the countryside, and as the train travels through the night, memories flood back of her younger years.",
+    "reviews": { "rottenTomatoes": "100%", "imdb": "7.6/10" }
+  },
+  "porco rosso": {
+    "title": "Porco Rosso",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/f/fc/Porco_Rosso_%28Movie_Poster%29.jpg",
+    "genre": "Fantasy/Adventure",
+    "rating": "PG",
+    "release": "July 18, 1992",
+    "director": "Hayao Miyazaki",
+    "screenwriters": ["Hayao Miyazaki"],
+    "producers": ["Toshio Suzuki"],
+    "music": "Joe Hisaishi",
+    "hepburn": "Kurenai no Buta",
+    "runtimeMinutes": "94",
+    "budgetUSD": "9,200,000",
+    "boxOfficeUSD": "44,600,000",
+    "character": [
+      {
+        "name": "Porco Rosso",
+        "originalCast": "Shūichirō Moriyama",
+        "lastEnglishDubbingActor": "Michael Keaton",
+        "still": ""
+      },
+      {
+        "name": "Donald Curtis",
+        "originalCast": "Akio Ōtsuka",
+        "lastEnglishDubbingActor": "Cary Elwes",
+        "still": ""
+      },
+      {
+        "name": "Fio Piccolo",
+        "originalCast": "Akemi Okamura",
+        "lastEnglishDubbingActor": "Kimberly Williams-Paisley",
+        "still": ""
+      },
+      {
+        "name": "Madame Gina",
+        "originalCast": "Tokiko Kato",
+        "lastEnglishDubbingActor": "Susan Egan",
+        "still": ""
+      },
+      {
+        "name": "Mr. Piccolo",
+        "originalCast": "Sanshi Katsura",
+        "lastEnglishDubbingActor": "David Ogden Stiers",
+        "still": ""
+      },
+      {
+        "name": "Ferrarin",
+        "originalCast": "Mahito Tsujimura",
+        "lastEnglishDubbingActor": "Tom Kenny",
+        "still": ""
+      },
+      {
+        "name": "Bellini",
+        "originalCast": "Unknown",
+        "lastEnglishDubbingActor": "Pat Fraley",
+        "still": ""
+      },
+      {
+        "name": "Giliora",
+        "originalCast": "N/A",
+        "lastEnglishDubbingActor": "N/A",
+        "still": ""
+      },
+      {
+        "name": "Sandra",
+        "originalCast": "N/A",
+        "lastEnglishDubbingActor": "N/A",
+        "still": ""
+      },
+      {
+        "name": "Marietta",
+        "originalCast": "N/A",
+        "lastEnglishDubbingActor": "N/A",
+        "still": ""
+      },
+      {
+        "name": "Capo",
+        "originalCast": "Tsunehiko Kamijō",
+        "lastEnglishDubbingActor": "Brad Garrett",
+        "still": ""
+      },
+      {
+        "name": "Mamma Aiuto Gang Members",
+        "originalCast": ["Reizō Nomoto", "Osamu Saka", "Yuu Shimaka"],
+        "lastEnglishDubbingActor": [
+          "Bill Fagerbakke",
+          "Kevin Michael Richardson",
+          "Frank Welker"
+        ],
+        "still": ""
+      }
+    ],
+    "awards": [
+      "Annecy International Animated Film Festival; Best Feature-Length Film Award"
+    ],
+    "synopsis": "A soaring tribute from Hayao Miyazaki to aviation and the reckless flyboys who defined an era. Set in a mid-war Italy swept by fascism, Porco Rosso, a bounty hunter with the face of a pig, takes on the sky pirates terrorizing the Adriatic.",
+    "reviews": { "rottenTomatoes": "95%", "imdb": "7.7/10" }
+  },
+  "ocean waves": {
+    "title": "Ocean Waves",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/e/ea/Umigakikoeru_poster.jpg",
+    "genre": "Drama/Romance",
+    "rating": "PG-13",
+    "release": "May 5, 1993",
+    "director": "Tomomi Mochizuki",
+    "screenwriters": ["Seiji Okuda", "Nozomu Takahashi"],
+    "producers": ["Toshio Suzuki"],
+    "music": "Shigeru Nagata",
+    "hepburn": "Umi ga Kikoeru",
+    "runtimeMinutes": "72",
+    "budgetUSD": "Unknown",
+    "boxOfficeUSD": "Unknown",
+    "character": [
+      {
+        "name": "Taku Morisaki",
+        "originalCast": "Nobuo Tobita",
+        "lastEnglishDubbingActor": "N/A",
+        "still": ""
+      },
+      {
+        "name": "Yutaka Matsuno",
+        "originalCast": "Toshihiko Seki",
+        "lastEnglishDubbingActor": "N/A",
+        "still": ""
+      },
+      {
+        "name": "Rikako Muto",
+        "originalCast": "Yōko Sakamoto",
+        "lastEnglishDubbingActor": "N/A",
+        "still": ""
+      },
+      {
+        "name": "Yumi Kohama",
+        "originalCast": "Kae Araki",
+        "lastEnglishDubbingActor": "N/A",
+        "still": ""
+      },
+      {
+        "name": "Akiko Shimizu",
+        "originalCast": "Yuri Amano",
+        "lastEnglishDubbingActor": "N/A",
+        "still": ""
+      },
+      {
+        "name": "Okada",
+        "originalCast": "Jun'ichi Kanemaru",
+        "lastEnglishDubbingActor": "N/A",
+        "still": ""
+      },
+      {
+        "name": "Tadashi Yamao",
+        "originalCast": "Hikaru Midorikawa",
+        "lastEnglishDubbingActor": "N/A",
+        "still": ""
+      },
+      {
+        "name": "Taku's Mother",
+        "originalCast": "Ai Satō",
+        "lastEnglishDubbingActor": "N/A",
+        "still": ""
+      },
+      {
+        "name": "Rikako's Father",
+        "originalCast": "Kinryū Arimoto",
+        "lastEnglishDubbingActor": "N/A",
+        "still": ""
+      },
+      {
+        "name": "Principal",
+        "originalCast": "Takeshi Watabe",
+        "lastEnglishDubbingActor": "N/A",
+        "still": ""
+      }
+    ],
+    "awards": [""],
+    "synopsis": "Ocean Waves is a poignant and wonderfully detailed story of teenage isolation. Bathed in a palette of soft pastel colors and rich in the visual details typical of Studio Ghibli's most revered works, Ocean Waves is a true discovery.",
+    "reviews": { "rottenTomatoes": "89%", "imdb": "6.6/10" }
+  },
+  "pom poko": {
+    "title": "Pom Poko",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Pompokoposter.jpg/220px-Pompokoposter.jpg",
+    "genre": "Fantasy/Family",
+    "rating": "PG",
+    "release": "July 16, 1994",
+    "director": "Isao Takahata",
+    "screenwriters": ["Isao Takahata"],
+    "producers": ["Toshio Suzuki"],
+    "music": "Shang Shang Typhoon",
+    "hepburn": "Heisei Tanuki Gassen Ponpoko",
+    "runtimeMinutes": "119",
+    "budgetUSD": "Unknown",
+    "boxOfficeUSD": "33,648,148",
+    "character": [
+      {
+        "name": "Shoukichi",
+        "originalCast": "Makoto Nonomura",
+        "lastEnglishDubbingActor": "Jonathan Taylor Thomas",
+        "still": ""
+      },
+      {
+        "name": "Gonta",
+        "originalCast": "Shigeru Izumiya",
+        "lastEnglishDubbingActor": "Clancy Brown",
+        "still": ""
+      },
+      {
+        "name": "Oroku",
+        "originalCast": "Nijiko Kiyokawa",
+        "lastEnglishDubbingActor": "Tress MacNeille",
+        "still": ""
+      },
+      {
+        "name": "Tsurukame Oshō",
+        "originalCast": "Kosan Yanagiya",
+        "lastEnglishDubbingActor": "Andre Stojka",
+        "still": ""
+      },
+      {
+        "name": "Seizaemon",
+        "originalCast": "Norihei Miki",
+        "lastEnglishDubbingActor": "J. K. Simmons",
+        "still": ""
+      },
+      {
+        "name": "Ponkichi",
+        "originalCast": "Hayashiya Shōzō IX",
+        "lastEnglishDubbingActor": "David Oliver Cohen",
+        "still": ""
+      },
+      {
+        "name": "Tamasaburo",
+        "originalCast": "Akira Kamiya",
+        "lastEnglishDubbingActor": "Wally Kurth",
+        "still": ""
+      },
+      {
+        "name": "Bunta",
+        "originalCast": "Takehiro Murata",
+        "lastEnglishDubbingActor": "Kevin Michael Richardson",
+        "still": ""
+      },
+      {
+        "name": "Sasuke",
+        "originalCast": "Megumi Hayashibara",
+        "lastEnglishDubbingActor": "Marc Donato",
+        "still": ""
+      },
+      {
+        "name": "Ryutaro",
+        "originalCast": "Akira Fukuzawa",
+        "lastEnglishDubbingActor": "John DiMaggio",
+        "still": ""
+      },
+      {
+        "name": "Okiyo",
+        "originalCast": "Yuriko Ishida",
+        "lastEnglishDubbingActor": "Jillian Bowen",
+        "still": ""
+      },
+      {
+        "name": "Kinchō Daimyōjin VI",
+        "originalCast": "Beichō Katsura",
+        "lastEnglishDubbingActor": "Brian George",
+        "still": ""
+      },
+      {
+        "name": "Yashimano Hage",
+        "originalCast": "Beichō Katsura",
+        "lastEnglishDubbingActor": "Brian George",
+        "still": ""
+      },
+      {
+        "name": "Inugami Gyōbu",
+        "originalCast": "Gannosuke Ashiya",
+        "lastEnglishDubbingActor": "Jess Harnell",
+        "still": ""
+      },
+      {
+        "name": "Otama",
+        "originalCast": "Yorie Yamashita",
+        "lastEnglishDubbingActor": "Russi Taylor",
+        "still": ""
+      },
+      {
+        "name": "Hayashi",
+        "originalCast": "Osamu Katō",
+        "lastEnglishDubbingActor": "Brian Posehn",
+        "still": ""
+      },
+      {
+        "name": "Koharu",
+        "originalCast": "Yumi Kuroda",
+        "lastEnglishDubbingActor": "Olivia d'Abo",
+        "still": ""
+      },
+      {
+        "name": "Narrator",
+        "originalCast": "Kokontei Shinchō",
+        "lastEnglishDubbingActor": "Maurice LaMarche",
+        "still": ""
+      },
+      {
+        "name": "Reporter",
+        "originalCast": [
+          "Makiko Ishikawa",
+          "Masanobu Iwakuma",
+          "Toshimi Ashizawa",
+          "Minako Nagai",
+          "Masahiro Hosaka",
+          "Katsuhiro Masukata"
+        ],
+        "lastEnglishDubbingActor": "Mark Moseley",
+        "still": ""
+      },
+      {
+        "name": "News Anchor",
+        "originalCast": ["Sawako Agawa", "Naruhito Iguchi"],
+        "lastEnglishDubbingActor": "Mark Moseley",
+        "still": ""
+      }
+    ],
+    "awards": ["Mainichi Film Awards; Best Animation Film"],
+    "synopsis": "The forests are home to magical tanuki, raccoon-like animals capable of shape-shifting into practically any object. In order to defend their home against city construction, the tanuki devise a mischievous plan to scare away the humans.",
+    "reviews": { "rottenTomatoes": "86%", "imdb": "7.3/10" }
+  },
+  "whisper of the heart": {
+    "title": "Whisper of the Heart",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Whisper_of_the_Heart_%28Movie_Poster%29.jpg/220px-Whisper_of_the_Heart_%28Movie_Poster%29.jpg",
+    "genre": "Romance/Family",
+    "rating": "G",
+    "release": "July 15, 1995",
+    "director": "Yoshifumi Kondō",
+    "screenwriters": ["Hayao Miyazaki"],
+    "producers": ["Toshio Suzuki"],
+    "music": "Yuji Nomi",
+    "hepburn": "\tMimi o Sumaseba",
+    "runtimeMinutes": "111",
+    "budgetUSD": "Unknown",
+    "boxOfficeUSD": "34,900,000",
+    "character": [
+      {
+        "name": "Shizuku Tsukishima",
+        "originalCast": "Yōko Honna",
+        "lastEnglishDubbingActor": "Brittany Snow",
+        "still": ""
+      },
+      {
+        "name": "Seiji Amasawa",
+        "originalCast": "Issei Takahashi",
+        "lastEnglishDubbingActor": "David Gallagher",
+        "still": ""
+      },
+      {
+        "name": "Asako Tsukishima",
+        "originalCast": "Shigeru Muroi",
+        "lastEnglishDubbingActor": "Jean Smart",
+        "still": ""
+      },
+      {
+        "name": "Seiya Tsukishima",
+        "originalCast": "Takashi Tachibana",
+        "lastEnglishDubbingActor": "James Sikking",
+        "still": ""
+      },
+      {
+        "name": "Baron Humbert von Gikkingen",
+        "originalCast": "Shigeru Tsuyuguchi",
+        "lastEnglishDubbingActor": "Cary Elwes",
+        "still": ""
+      },
+      {
+        "name": "Shirō Nishi",
+        "originalCast": "Keiju Kobayashi",
+        "lastEnglishDubbingActor": "Harold Gould",
+        "still": ""
+      },
+      {
+        "name": "Yūko Harada",
+        "originalCast": "Maiko Kayama",
+        "lastEnglishDubbingActor": "Ashley Tisdale",
+        "still": ""
+      },
+      {
+        "name": "Ms. Kōsaka",
+        "originalCast": "Minami Takayama",
+        "lastEnglishDubbingActor": "Vicki Davis",
+        "still": ""
+      },
+      {
+        "name": "Kinuyo and Nao",
+        "originalCast": ["Mayumi Iizuka", "Mai Chiba"],
+        "lastEnglishDubbingActor": ["Mika Boorem", "Abigail Mavity"],
+        "still": ""
+      },
+      {
+        "name": "Sugimura",
+        "originalCast": "Yoshimi Nakajima",
+        "lastEnglishDubbingActor": "Martin Spanjers",
+        "still": ""
+      },
+      {
+        "name": "Shiho Tsukishima",
+        "originalCast": "Yorie Yamashita",
+        "lastEnglishDubbingActor": "Courtney Thorne-Smith",
+        "still": ""
+      },
+      {
+        "name": "Kita",
+        "originalCast": "Toshio Suzuki",
+        "lastEnglishDubbingActor": "Walker Edmiston",
+        "still": ""
+      },
+      {
+        "name": "Minami",
+        "originalCast": "Naohisa Inoue",
+        "lastEnglishDubbingActor": "Corey Burton",
+        "still": ""
+      }
+    ],
+    "awards": [""],
+    "synopsis": "Challenged by Seiji, a boy determined to follow his dreams, quiet bookworm Shizuku decides to embark on a quest to find her own true talent. A heartwarming coming-of-age tale about imagination and self-discovery that will inspire all ages.",
+    "reviews": { "rottenTomatoes": "94%", "imdb": "7.9/10" }
+  },
+  "princess mononoke": {
+    "title": "Princess Mononoke",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Princess_Mononoke_Japanese_poster.png/220px-Princess_Mononoke_Japanese_poster.png",
+    "genre": "Fantasy/Adventure",
+    "rating": "PG-13",
+    "release": "July 12, 1997",
+    "director": "Hayao Miyazaki",
+    "screenwriters": ["Hayao Miyazaki"],
+    "producers": ["Toshio Suzuki"],
+    "music": "Joe Hisaishi",
+    "hepburn": "Mononoke-hime",
+    "runtimeMinutes": "133",
+    "budgetUSD": "23,500,000",
+    "boxOfficeUSD": "169,700,000",
+    "character": [
+      {
+        "name": "Ashitaka",
+        "originalCast": "Yōji Matsuda",
+        "lastEnglishDubbingActor": "Billy Crudup",
+        "still": ""
+      },
+      {
+        "name": "San",
+        "originalCast": "Yuriko Ishida",
+        "lastEnglishDubbingActor": "Claire Danes",
+        "still": ""
+      },
+      {
+        "name": "Kaya",
+        "originalCast": "Yuriko Ishida",
+        "lastEnglishDubbingActor": "Tara Strong",
+        "still": ""
+      },
+      {
+        "name": "Lady Eboshi",
+        "originalCast": "Yūko Tanaka",
+        "lastEnglishDubbingActor": "Minnie Driver",
+        "still": ""
+      },
+      {
+        "name": "Jiko-bō",
+        "originalCast": "Kaoru Kobayashi",
+        "lastEnglishDubbingActor": "Billy Bob Thornton",
+        "still": ""
+      },
+      {
+        "name": "Kohroku",
+        "originalCast": "Masahiko Nishimura",
+        "lastEnglishDubbingActor": "John DeMita",
+        "still": ""
+      },
+      {
+        "name": "Gonza",
+        "originalCast": "Tsunehiko Kamijō",
+        "lastEnglishDubbingActor": "John DiMaggio",
+        "still": ""
+      },
+      {
+        "name": "Moro",
+        "originalCast": "Akihiro Miwa",
+        "lastEnglishDubbingActor": "Gillian Anderson",
+        "still": ""
+      },
+      {
+        "name": "Hii-sama",
+        "originalCast": "Mitsuko Mori",
+        "lastEnglishDubbingActor": "Debi Derryberry",
+        "still": ""
+      },
+      {
+        "name": "Okkoto-nushi",
+        "originalCast": "Hisaya Morishige",
+        "lastEnglishDubbingActor": "Keith David",
+        "still": ""
+      },
+      {
+        "name": "Cattleman Leader",
+        "originalCast": "Akira Nagoya",
+        "lastEnglishDubbingActor": "",
+        "still": ""
+      },
+      {
+        "name": "Jibashiri",
+        "originalCast": "Kimihiro Reizei",
+        "lastEnglishDubbingActor": "",
+        "still": ""
+      },
+      {
+        "name": "Mountain Wolf",
+        "originalCast": "Tetsu Watanabe",
+        "lastEnglishDubbingActor": "",
+        "still": ""
+      },
+      {
+        "name": "Nago",
+        "originalCast": "Makoto Sato",
+        "lastEnglishDubbingActor": "John DiMaggio",
+        "still": ""
+      },
+      {
+        "name": "Toki",
+        "originalCast": "Sumi Shimamoto",
+        "lastEnglishDubbingActor": "Jada Pinkett Smith",
+        "still": ""
+      }
+    ],
+    "awards": [
+      "Japan Academy Prize; Picture of the Year",
+      "Mainichi Eiga Concours Award; Best Film"
+    ],
+    "synopsis": "Cursed warrior Ashitaka stumbles into a bitter war where a girl raised by wolves defends her forest home against the people of Iron Town, in this epic masterpiece from Hayao Miyazaki about the clash between mankind and nature.",
+    "reviews": { "rottenTomatoes": "93%", "imdb": "8.7/10" }
+  },
+  "my neighbors the yamadas": {
+    "title": "My Neighbors the Yamadas",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/My_Neighbors_the_Yamadas_%281999%29.jpg/220px-My_Neighbors_the_Yamadas_%281999%29.jpg",
+    "genre": "Family/Comedy",
+    "rating": "PG",
+    "release": "July 17, 1999",
+    "director": "Isao Takahata",
+    "screenwriters": ["Isao Takahata"],
+    "producers": ["Toshio Suzuki"],
+    "music": "Akiko Yano",
+    "hepburn": "Hōhokekyo Tonari no Yamada-kun",
+    "runtimeMinutes": "104",
+    "budgetUSD": "15,270,000",
+    "boxOfficeUSD": "11,910,000",
+    "character": [
+      {
+        "name": "Takashi Yamada",
+        "originalCast": "Touru Masuoka",
+        "lastEnglishDubbingActor": "James Belushi",
+        "still": ""
+      },
+      {
+        "name": "Matsuko Yamada",
+        "originalCast": "Yukiji Asaoka",
+        "lastEnglishDubbingActor": "Molly Shannon",
+        "still": ""
+      },
+      {
+        "name": "Noboru Yamada",
+        "originalCast": "Hayato Isobata",
+        "lastEnglishDubbingActor": "Daryl Sabara",
+        "still": ""
+      },
+      {
+        "name": "Nonoko Yamada",
+        "originalCast": "Naomi Uno",
+        "lastEnglishDubbingActor": "Liliana Mumy",
+        "still": ""
+      },
+      {
+        "name": "Shige Yamada",
+        "originalCast": "Masako Araki",
+        "lastEnglishDubbingActor": "Tress MacNeille",
+        "still": ""
+      },
+      {
+        "name": "Fujihara-Sensei",
+        "originalCast": "Akiko Yano",
+        "lastEnglishDubbingActor": "Unknown",
+        "still": ""
+      },
+      {
+        "name": "Haiku Reader",
+        "originalCast": "Kosanji Yanagiya",
+        "lastEnglishDubbingActor": "David Ogden Stiers",
+        "still": ""
+      }
+    ],
+    "awards": ["Japan Media Arts Festival; Excellence Award"],
+    "synopsis": "The Yamadas navigate their way through the ups and downs of family life with a sharp-tongued grandmother, a teenage son who wishes he had cooler parents, and a pesky daughter whose loud voice is unusual for someone so small.",
+    "reviews": { "rottenTomatoes": "78%", "imdb": "7.1/10" }
+  },
+  "spirited away": {
+    "title": "Spirited Away",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Spirited_Away_Japanese_poster.png/220px-Spirited_Away_Japanese_poster.png",
+    "genre": "Fantasy/Adventure",
+    "rating": "PG",
+    "release": "July 20, 2001",
+    "director": "Hayao Miyazaki",
+    "screenwriters": ["Hayao Miyazaki"],
+    "producers": ["Toshio Suzuki"],
+    "music": "Joe Hisaishi",
+    "hepburn": "Sen to Chihiro no Kamikakushi",
+    "runtimeMinutes": "125",
+    "budgetUSD": "19,200,000",
+    "boxOfficeUSD": "395,800,000",
+    "character": [
+      {
+        "name": "Chihiro Ogino / Sen",
+        "originalCast": "Rumi Hiiragi",
+        "lastEnglishDubbingActor": "Daveigh Chase",
+        "still": ""
+      },
+      {
+        "name": "Haku / Spirit of the Kohaku River",
+        "originalCast": "Miyu Irino",
+        "lastEnglishDubbingActor": "Jason Marsden",
+        "still": ""
+      },
+      {
+        "name": "Yubaba",
+        "originalCast": "Mari Natsuki",
+        "lastEnglishDubbingActor": "Suzanne Pleshette",
+        "still": ""
+      },
+      {
+        "name": "Zeniba",
+        "originalCast": "Mari Natsuki",
+        "lastEnglishDubbingActor": "Suzanne Pleshette",
+        "still": ""
+      },
+      {
+        "name": "Kamaji",
+        "originalCast": "Bunta Sugawara",
+        "lastEnglishDubbingActor": "David Ogden Stiers",
+        "still": ""
+      },
+      {
+        "name": "Lin",
+        "originalCast": "Yoomi Tamai",
+        "lastEnglishDubbingActor": "Susan Egan",
+        "still": ""
+      },
+      {
+        "name": "Chichiyaku",
+        "originalCast": "Tsunehiko Kamijō",
+        "lastEnglishDubbingActor": "Paul Eiding",
+        "still": ""
+      },
+      {
+        "name": "Aniyaku",
+        "originalCast": "Takehiko Ono",
+        "lastEnglishDubbingActor": "John Ratzenberger",
+        "still": ""
+      },
+      {
+        "name": "No-Face",
+        "originalCast": "Akio Nakamura",
+        "lastEnglishDubbingActor": "Bob Bergen",
+        "still": ""
+      },
+      {
+        "name": "Aogaeru",
+        "originalCast": "Tatsuya Gashūin",
+        "lastEnglishDubbingActor": "Bob Bergen",
+        "still": ""
+      },
+      {
+        "name": "Bandai-gaeru",
+        "originalCast": "Yō Ōizumi",
+        "lastEnglishDubbingActor": "Rodger Bumpass",
+        "still": ""
+      },
+      {
+        "name": "Boh (baby)",
+        "originalCast": "Ryūnosuke Kamiki",
+        "lastEnglishDubbingActor": "Tara Strong",
+        "still": ""
+      },
+      {
+        "name": "Akio Ogino",
+        "originalCast": "Takashi Naitō",
+        "lastEnglishDubbingActor": "Michael Chiklis",
+        "still": ""
+      },
+      {
+        "name": "Yūko Ogino",
+        "originalCast": "Yasuko Sawaguchi",
+        "lastEnglishDubbingActor": "Lauren Holly",
+        "still": ""
+      },
+      {
+        "name": "River Spirit",
+        "originalCast": "Koba Hayashi",
+        "lastEnglishDubbingActor": "Jim Ward",
+        "still": ""
+      },
+      {
+        "name": "Radish Spirit",
+        "originalCast": "Ken Yasuda",
+        "lastEnglishDubbingActor": "Jack Angel",
+        "still": ""
+      }
+    ],
+    "awards": [
+      "Animation Kobe; Theatrical Film Award",
+      "Blue Ribbon Awards; Best Film",
+      "5th Japan Media Arts Festival; Grand Prize",
+      "Mainichi Film Awards; Best Film,Best Animated Film,Best Director",
+      "25th Japan Academy Award; Best Film,Best Song",
+      "52nd Berlin International Film Festival; Golden Bear",
+      "Cinekid Festival; Cinekid Film Award",
+      "21st Hong Kong Film Awards; Best Asian Film",
+      "Tokyo Anime Award; Animation of the Year,Best Art Direction,Best Character Design,Best Director,Best Music,Best Screenplay,Best Voice Actor,Notable Entry",
+      "Utah Film Critics Association Awards; Best Picture,Best Director,Best Screenplay,Best Non-English Language Film",
+      "National Board of Review; National Board of Review Award for Best Animated Film",
+      "New York Film Critics Online; Best Animated Feature",
+      "75th Academy Awards; Best Animated Feature",
+      "30th Annie Awards; Annie Award for Best Animated Feature,Directing in an Animated Feature Production,Annie Award for Writing in a Feature Production,Annie Award for Music in a Feature Production",
+      "8th Critics' Choice Awards; Best Animated Feature",
+      "29th Saturn Awards; Best Animated Film",
+      "7th Golden Satellite Awards; Best Animated or Mixed Media Feature",
+      "Amsterdam Fantastic Film Festival; Silver Scream Award",
+      "Christopher Awards; Feature Film"
+    ],
+    "synopsis": "When Chihiro is whisked away into a breathtaking world full of spirits and demons, she must use all her wits in order to free herself and her parents from the sorceress Yubaba, in Hayao Miyazaki's Academy Award-winning masterpiece.",
+    "reviews": { "rottenTomatoes": "97%", "imdb": "8.6/10" }
+  },
+  "the cat returns": {
+    "title": "The Cat Returns",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Cat_Returns.jpg/220px-Cat_Returns.jpg",
+    "genre": "Fantasy/Family",
+    "rating": "G",
+    "release": "July 19, 2002",
+    "director": "Hiroyuki Morita",
+    "screenwriters": ["Reiko Yoshida"],
+    "producers": ["Toshio Suzuki", "Nozomu Takahashi"],
+    "music": "Yuji Nomi",
+    "hepburn": "Neko no Ongaeshi",
+    "runtimeMinutes": "75",
+    "budgetUSD": "20,000,000",
+    "boxOfficeUSD": "65,000,000",
+    "character": [
+      {
+        "name": "Haru Yoshioka",
+        "originalCast": "Chizuru Ikewaki",
+        "lastEnglishDubbingActor": "Anne Hathaway",
+        "still": ""
+      },
+      {
+        "name": "Baron Humbert von Gikkingen",
+        "originalCast": "Yoshihiko Hakamada",
+        "lastEnglishDubbingActor": "Cary Elwes",
+        "still": ""
+      },
+      {
+        "name": "Muta / Renaldo Moon",
+        "originalCast": "Tetsu Watanabe",
+        "lastEnglishDubbingActor": "Peter Boyle",
+        "still": ""
+      },
+      {
+        "name": "Toto",
+        "originalCast": "Yōsuke Saitō",
+        "lastEnglishDubbingActor": "Elliott Gould",
+        "still": ""
+      },
+      {
+        "name": "The Cat King",
+        "originalCast": "Tetsurō Tanba",
+        "lastEnglishDubbingActor": "Tim Curry",
+        "still": ""
+      },
+      {
+        "name": "Prince Lune",
+        "originalCast": "Takayuki Yamada",
+        "lastEnglishDubbingActor": "Andrew Bevis",
+        "still": ""
+      },
+      {
+        "name": "Yuki",
+        "originalCast": "Aki Maeda",
+        "lastEnglishDubbingActor": "Judy Greer",
+        "still": ""
+      },
+      {
+        "name": "Natori",
+        "originalCast": "Kenta Satoi",
+        "lastEnglishDubbingActor": "René Auberjonois",
+        "still": ""
+      },
+      {
+        "name": "Natoru",
+        "originalCast": "Mari Hamada",
+        "lastEnglishDubbingActor": "Andy Richter",
+        "still": ""
+      },
+      {
+        "name": "Naoko Yoshioka",
+        "originalCast": "Kumiko Okae",
+        "lastEnglishDubbingActor": "Kristine Sutherland",
+        "still": ""
+      },
+      {
+        "name": "Hiromi",
+        "originalCast": "Hitomi Satō",
+        "lastEnglishDubbingActor": "Kristen Bell",
+        "still": ""
+      },
+      {
+        "name": "Chika",
+        "originalCast": "Yōko Honna",
+        "lastEnglishDubbingActor": "Unknown",
+        "still": ""
+      }
+    ],
+    "awards": [""],
+    "synopsis": "Haru's average life is turned upside down after she rescues a cat who turns out to be a prince. In exchange for her help, Haru is whisked away to a magical world full of talking cats to marry the cat prince.",
+    "reviews": { "rottenTomatoes": "88%", "imdb": "7.2/10" }
+  },
+  "howl's moving castle": {
+    "title": "Howl's Moving Castle",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Howls-moving-castleposter.jpg/220px-Howls-moving-castleposter.jpg",
+    "genre": "Fantasy/Family",
+    "rating": "PG",
+    "release": "November 20, 2004",
+    "director": "Hayao Miyazaki",
+    "screenwriters": ["Hayao Miyazaki"],
+    "producers": ["Toshio Suzuki"],
+    "music": "Joe Hisaishi",
+    "hepburn": "Hauru no Ugoku Shiro",
+    "runtimeMinutes": "119",
+    "budgetUSD": "24,000,000",
+    "boxOfficeUSD": "236,000,000",
+    "character": [
+      {
+        "name": "Sophie Hatter",
+        "originalCast": "Chieko Baisho",
+        "lastEnglishDubbingActor": "Jean Simmons",
+        "still": ""
+      },
+      {
+        "name": "Howl",
+        "originalCast": "Takuya Kimura",
+        "lastEnglishDubbingActor": "Christian Bale",
+        "still": ""
+      },
+      {
+        "name": "Witch of the Waste",
+        "originalCast": "Akihiro Miwa",
+        "lastEnglishDubbingActor": "Lauren Bacall",
+        "still": ""
+      },
+      {
+        "name": "Calcifer",
+        "originalCast": "Tatsuya Gashuin",
+        "lastEnglishDubbingActor": "Billy Crystal",
+        "still": ""
+      },
+      {
+        "name": "Markl",
+        "originalCast": "Ryūnosuke Kamiki",
+        "lastEnglishDubbingActor": "Josh Hutcherson",
+        "still": ""
+      },
+      {
+        "name": "Suliman",
+        "originalCast": "Haruko Kato",
+        "lastEnglishDubbingActor": "Blythe Danner",
+        "still": ""
+      },
+      {
+        "name": "Lettie",
+        "originalCast": "Yayoi Kazuki",
+        "lastEnglishDubbingActor": "Jena Malone",
+        "still": ""
+      },
+      {
+        "name": "Honey",
+        "originalCast": "Mayuno Yasokawa",
+        "lastEnglishDubbingActor": "Mari Devon",
+        "still": ""
+      },
+      {
+        "name": "Prince Justin / Turnip Head",
+        "originalCast": "Yō Ōizumi",
+        "lastEnglishDubbingActor": "Crispin Freeman",
+        "still": ""
+      },
+      {
+        "name": "King of Ingary",
+        "originalCast": "Akio Ōtsuka",
+        "lastEnglishDubbingActor": "Mark Silverman",
+        "still": ""
+      },
+      {
+        "name": "Heen",
+        "originalCast": "Daijiro Harada",
+        "lastEnglishDubbingActor": "Dee Bradley Baker",
+        "still": ""
+      }
+    ],
+    "awards": [
+      "61st Venice Film Festival; Osella Awards for Technical Achievement",
+      "Mainichi Film Awards; Best Japanese Movie Overall",
+      "Japan Media Arts Festival; Excellence Prize, Animation",
+      "Tokyo Anime Award; Animation of the Year,Best Director,Best Voice Actor/Actress,Best Music",
+      "Maui Film Festival; Audience Award",
+      "Nebula Award; Best Script"
+    ],
+    "synopsis": "Sophie finds her life changed when she is literally swept off her feet by the handsome, mysterious wizard Howl. In search of a cure to a witch's curse, Sophie boards his magnificent moving castle into a new life of wonder and adventure.",
+    "reviews": { "rottenTomatoes": "87%", "imdb": "8.2/10" }
+  },
+  "tales from earthsea": {
+    "title": "Tales from Earthsea",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Gedo6sn.jpg/220px-Gedo6sn.jpg",
+    "genre": "Fantasy/Adventure",
+    "rating": "PG-13",
+    "release": "July 29, 2006",
+    "director": "Gorō Miyazaki",
+    "screenwriters": ["Gorō Miyazaki", "Keiko Niwa"],
+    "producers": ["Tomohiko Ishii", "Toshio Suzuki"],
+    "music": "Tamiya Terashima",
+    "hepburn": "Gedo Senki",
+    "runtimeMinutes": "115",
+    "budgetUSD": "22,000,000",
+    "boxOfficeUSD": "75,500,000",
+    "character": [
+      {
+        "name": "Ged/Sparrowhawk",
+        "originalCast": "Bunta Sugawara",
+        "lastEnglishDubbingActor": "Timothy Dalton",
+        "still": ""
+      },
+      {
+        "name": "Prince Arren/Lebannen",
+        "originalCast": "Junichi Okada",
+        "lastEnglishDubbingActor": "Matt Levin",
+        "still": ""
+      },
+      {
+        "name": "Therru/Tehanu",
+        "originalCast": "Aoi Teshima",
+        "lastEnglishDubbingActor": "Blaire Restaneo",
+        "still": ""
+      },
+      {
+        "name": "Tenar",
+        "originalCast": "Jun Fubuki",
+        "lastEnglishDubbingActor": "Mariska Hargitay",
+        "still": ""
+      },
+      {
+        "name": "Cob",
+        "originalCast": "Yūko Tanaka",
+        "lastEnglishDubbingActor": "Willem Dafoe",
+        "still": ""
+      },
+      {
+        "name": "Hare",
+        "originalCast": "Teruyuki Kagawa",
+        "lastEnglishDubbingActor": "Cheech Marin",
+        "still": ""
+      },
+      {
+        "name": "King of Enlad",
+        "originalCast": "Kaoru Kobayashi",
+        "lastEnglishDubbingActor": "Brian George",
+        "still": ""
+      },
+      {
+        "name": "Queen of Enlad",
+        "originalCast": "Yui Natsukawa",
+        "lastEnglishDubbingActor": "Susanne Blakeslee",
+        "still": ""
+      },
+      {
+        "name": "Cloak Vendor",
+        "originalCast": "Mitsuko Baisho",
+        "lastEnglishDubbingActor": "Kat Cressida",
+        "still": ""
+      },
+      {
+        "name": "Hazia Dealer",
+        "originalCast": "Takashi Naito",
+        "lastEnglishDubbingActor": "Jess Harnell",
+        "still": ""
+      }
+    ],
+    "awards": [
+      "Bunshun Raspberry Award; Worst Director,Worst Movie",
+      "Venice Film Festival; Out of Competition"
+    ],
+    "synopsis": "As crops dwindle and dragons reappear, mankind stands on the verge of total chaos. A wizard and a young prince search for the force behind the imbalance that threatens to destroy the land of Earthsea, based on Ursula K. Le Guin's series.",
+    "reviews": { "rottenTomatoes": "43%", "imdb": "6.4/10" }
+  },
+  "ponyo": {
+    "title": "Ponyo",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Ponyo_%282008%29.png/220px-Ponyo_%282008%29.png",
+    "genre": "Fantasy/Adventure",
+    "rating": "G",
+    "release": "July 19, 2008",
+    "director": "Hayao Miyazaki",
+    "screenwriters": ["Hayao Miyazaki"],
+    "producers": ["Toshio Suzuki"],
+    "music": "Joe Hisaishi",
+    "hepburn": "Gake no Ue no Ponyo",
+    "runtimeMinutes": "101",
+    "budgetUSD": "34,000,000",
+    "boxOfficeUSD": "204,800,000",
+    "character": [
+      {
+        "name": "Ponyo",
+        "originalCast": "Yuria Nara",
+        "lastEnglishDubbingActor": "Noah Cyrus",
+        "still": ""
+      },
+      {
+        "name": "Sōsuke",
+        "originalCast": "Hiroki Doi",
+        "lastEnglishDubbingActor": "Frankie Jonas",
+        "still": ""
+      },
+      {
+        "name": "Lisa",
+        "originalCast": "Tomoko Yamaguchi",
+        "lastEnglishDubbingActor": "Tina Fey",
+        "still": ""
+      },
+      {
+        "name": "Kōichi",
+        "originalCast": "Kazushige Nagashima",
+        "lastEnglishDubbingActor": "Matt Damon",
+        "still": ""
+      },
+      {
+        "name": "Fujimoto",
+        "originalCast": "George Tokoro",
+        "lastEnglishDubbingActor": "Liam Neeson",
+        "still": ""
+      },
+      {
+        "name": "Young Mother",
+        "originalCast": "Rumi Hiiragi",
+        "lastEnglishDubbingActor": "Mona Marshall",
+        "still": ""
+      },
+      {
+        "name": "Young Father",
+        "originalCast": "Shirō Saitō",
+        "lastEnglishDubbingActor": "Bob Bergen",
+        "still": ""
+      },
+      {
+        "name": "Ponyo's sisters",
+        "originalCast": "Akiko Yano",
+        "lastEnglishDubbingActor": "Akiko Yano",
+        "still": ""
+      },
+      {
+        "name": "Toki",
+        "originalCast": "Kazuko Yoshiyuki",
+        "lastEnglishDubbingActor": "Lily Tomlin",
+        "still": ""
+      },
+      {
+        "name": "Yoshie",
+        "originalCast": "Tomoko Naraoka",
+        "lastEnglishDubbingActor": "Betty White",
+        "still": ""
+      },
+      {
+        "name": "Kayo",
+        "originalCast": "Tokie Hidari",
+        "lastEnglishDubbingActor": "Cloris Leachman",
+        "still": ""
+      },
+      {
+        "name": "Kumiko",
+        "originalCast": "Emi Hiraoka",
+        "lastEnglishDubbingActor": "Jennessa Rose",
+        "still": ""
+      },
+      {
+        "name": "Karen",
+        "originalCast": "Nozomi Ōhashi",
+        "lastEnglishDubbingActor": "Colleen O'Shaughnessey",
+        "still": ""
+      },
+      {
+        "name": "The Newscaster",
+        "originalCast": "Shinichi Hatori",
+        "lastEnglishDubbingActor": "Kurt Knutsson",
+        "still": ""
+      }
+    ],
+    "awards": [
+      "Tokyo Anime Awards; Anime of the Year,Best Domestic Feature,Best Director, Best Original Story, Best Art Direction",
+      "Japan Academy Prize; Animation of the Year,Outstanding Achievement in Music"
+    ],
+    "synopsis": "A magical goldfish named Ponyo, the young daughter of a sorcerer father and a sea-goddess mother, befriends Sosuke. Ponyo yearns to become human to be with Sosuke, but their friendship leads to unintended consequences on both land and sea.",
+    "reviews": { "rottenTomatoes": "91%", "imdb": "7.6/10" }
+  },
+  "arrietty": {
+    "title": "Arrietty",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Karigurashi_no_Arrietty_poster.png/220px-Karigurashi_no_Arrietty_poster.png",
+    "genre": "Fantasy/Adventure",
+    "rating": "G",
+    "release": "July 17, 2010",
+    "director": "Hiromasa Yonebayashi",
+    "screenwriters": ["Hayao Miyazaki", "Keiko Niwa"],
+    "producers": ["Toshio Suzuki"],
+    "music": "Cécile Corbel\t",
+    "hepburn": "Karigurashi no Arietty",
+    "runtimeMinutes": "95",
+    "budgetUSD": "23,000,000",
+    "boxOfficeUSD": "146,000,000",
+    "character": [
+      {
+        "name": "Arrietty",
+        "originalCast": "Mirai Shida",
+        "lastEnglishDubbingActor": "Bridgit Mendler",
+        "still": ""
+      },
+      {
+        "name": "Shō",
+        "originalCast": "Ryunosuke Kamiki",
+        "lastEnglishDubbingActor": "David Henrie",
+        "still": ""
+      },
+      {
+        "name": "Homily",
+        "originalCast": "Shinobu Otake",
+        "lastEnglishDubbingActor": "Amy Poehler",
+        "still": ""
+      },
+      {
+        "name": "Pod",
+        "originalCast": "Tomokazu Miura",
+        "lastEnglishDubbingActor": "Will Arnett",
+        "still": ""
+      },
+      {
+        "name": "Haru",
+        "originalCast": "Kirin Kiki",
+        "lastEnglishDubbingActor": "Carol Burnett",
+        "still": ""
+      },
+      {
+        "name": "Spiller",
+        "originalCast": "Tatsuya Fujiwara",
+        "lastEnglishDubbingActor": "Moisés Arias",
+        "still": ""
+      },
+      {
+        "name": "Sadako Maki",
+        "originalCast": "Keiko Takeshita",
+        "lastEnglishDubbingActor": "Gracie Moore",
+        "still": ""
+      }
+    ],
+    "awards": [
+      "Japan Academy Prize; Animation of the Year",
+      "Tokyo Anime Awards; Animation of the Year",
+      "Golden Tomato Awards; Best Reviewed Animated Film",
+      "International Cinephile Society Awards; Best Animated Feature",
+      "Golden Trailer Awards; Best Anime Trailer,Best Foreign Animation/Family Trailer,The Don LaFontaine Award for Best Voice Over"
+    ],
+    "synopsis": "Arrietty and her family live out of sight from humans, but she strikes an unlikely friendship when she meets a human boy.",
+    "reviews": { "rottenTomatoes": "95%", "imdb": "7.6/10" }
+  },
+  "from up on poppy hill": {
+    "title": "From Up on Poppy Hill",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/From_Up_on_Poppy_Hill.png/220px-From_Up_on_Poppy_Hill.png",
+    "genre": "Family/Romance",
+    "rating": "PG",
+    "release": "July 16, 2011",
+    "director": "Gorō Miyazaki",
+    "screenwriters": ["Hayao Miyazaki", "Keiko Niwa"],
+    "producers": ["Toshio Suzuki"],
+    "music": "Satoshi Takebe",
+    "hepburn": "Kokuriko-zaka Kara",
+    "runtimeMinutes": "92",
+    "budgetUSD": "22,000,000",
+    "boxOfficeUSD": "61,500,000",
+    "character": [
+      {
+        "name": "Umi Matsuzaki",
+        "originalCast": "Masami Nagasawa",
+        "lastEnglishDubbingActor": "Sarah Bolger",
+        "still": ""
+      },
+      {
+        "name": "Shun Kazama",
+        "originalCast": "Junichi Okada",
+        "lastEnglishDubbingActor": "Anton Yelchin",
+        "still": ""
+      },
+      {
+        "name": "Yūichirō Sawamura",
+        "originalCast": "Junichi Okada",
+        "lastEnglishDubbingActor": "Anton Yelchin",
+        "still": ""
+      },
+      {
+        "name": "Hana Matsuzaki",
+        "originalCast": "Keiko Takeshita",
+        "lastEnglishDubbingActor": "Edie Mirman",
+        "still": ""
+      },
+      {
+        "name": "Ryoko Matsuzaki",
+        "originalCast": "Jun Fubuki",
+        "lastEnglishDubbingActor": "Jamie Lee Curtis",
+        "still": ""
+      },
+      {
+        "name": "Miki Hokuto",
+        "originalCast": "Yuriko Ishida",
+        "lastEnglishDubbingActor": "Gillian Anderson",
+        "still": ""
+      },
+      {
+        "name": "Akio Kazama",
+        "originalCast": "Nao Ōmori",
+        "lastEnglishDubbingActor": "Chris Noth",
+        "still": ""
+      },
+      {
+        "name": "Yoshio Onodera",
+        "originalCast": "Takashi Naito",
+        "lastEnglishDubbingActor": "Bruce Dern",
+        "still": ""
+      },
+      {
+        "name": "Shirō Mizunuma",
+        "originalCast": "Shunsuke Kazama",
+        "lastEnglishDubbingActor": "Charlie Saxton",
+        "still": ""
+      },
+      {
+        "name": "Hiroshi Tachibana",
+        "originalCast": "Shunsuke Kazama",
+        "lastEnglishDubbingActor": "Charlie Saxton",
+        "still": ""
+      },
+      {
+        "name": "Chief Director Tokumaru",
+        "originalCast": "Teruyuki Kagawa",
+        "lastEnglishDubbingActor": "Beau Bridges",
+        "still": ""
+      },
+      {
+        "name": "Sora Matsuzaki",
+        "originalCast": "Haruka Shiraishi",
+        "lastEnglishDubbingActor": "Isabelle Fuhrman",
+        "still": ""
+      },
+      {
+        "name": "Riku Matsuzaki",
+        "originalCast": "Tsubasa Kobayashi",
+        "lastEnglishDubbingActor": "Alex Wolff",
+        "still": ""
+      },
+      {
+        "name": "Sachiko Hirokoji",
+        "originalCast": "Rumi Hiiragi",
+        "lastEnglishDubbingActor": "Aubrey Plaza",
+        "still": ""
+      },
+      {
+        "name": "Saori Makimura",
+        "originalCast": "Eiko Kanazawa",
+        "lastEnglishDubbingActor": "Christina Hendricks",
+        "still": ""
+      },
+      {
+        "name": "Nobuko",
+        "originalCast": "Toshimi Kanno",
+        "lastEnglishDubbingActor": "Emily Osment",
+        "still": ""
+      },
+      {
+        "name": "Yuko",
+        "originalCast": "Aoi Teshima",
+        "lastEnglishDubbingActor": "Bridget Hoffman",
+        "still": ""
+      }
+    ],
+    "awards": [
+      "Japan Academy Prize; Animation of the Year",
+      "Tokyo Anime Award; Animation of the Year",
+      "Golden Trailer Awards; Best Foreign Animation/Family Trailer",
+      "Utah Film Critics Association; Best Animated Feature"
+    ],
+    "synopsis": "Japan is recovering from World War II and preparing to host the Olympics. Friendship begins to blossom between classmates Umi and Shun, but a buried secret from their past emerges to cast a shadow on the future and pull them apart",
+    "reviews": { "rottenTomatoes": "87%", "imdb": "7.4/10" }
+  },
+  "the wind rises": {
+    "title": "The Wind Rises",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/a/a3/Kaze_Tachinu_poster.jpg",
+    "genre": "War/Romance",
+    "rating": "PG-13",
+    "release": "July 20, 2013",
+    "director": "Hayao Miyazaki",
+    "screenwriters": ["Hayao Miyazaki"],
+    "producers": ["Toshio Suzuki"],
+    "music": "Joe Hisaishi",
+    "hepburn": "Kaze Tachinu",
+    "runtimeMinutes": "126",
+    "budgetUSD": "30,000,000",
+    "boxOfficeUSD": "136,500,000",
+    "character": [
+      {
+        "name": "Jiro Horikoshi",
+        "originalCast": "Hideaki Anno",
+        "lastEnglishDubbingActor": "Joseph Gordon-Levitt",
+        "still": ""
+      },
+      {
+        "name": "Nahoko Satomi",
+        "originalCast": "Miori Takimoto",
+        "lastEnglishDubbingActor": "Emily Blunt",
+        "still": ""
+      },
+      {
+        "name": "Kiro Honjo",
+        "originalCast": "Hidetoshi Nishijima",
+        "lastEnglishDubbingActor": "John Krasinski",
+        "still": ""
+      },
+      {
+        "name": "Kurokawa",
+        "originalCast": "Masahiko Nishimura",
+        "lastEnglishDubbingActor": "Martin Short",
+        "still": ""
+      },
+      {
+        "name": "Castorp",
+        "originalCast": "Stephen Alpert",
+        "lastEnglishDubbingActor": "Werner Herzog",
+        "still": ""
+      },
+      {
+        "name": "Satomi",
+        "originalCast": "Morio Kazama",
+        "lastEnglishDubbingActor": "William H. Macy",
+        "still": ""
+      },
+      {
+        "name": "Jiro's mother",
+        "originalCast": "Keiko Takeshita",
+        "lastEnglishDubbingActor": "Edie Mirman",
+        "still": ""
+      },
+      {
+        "name": "Kayo Horikoshi",
+        "originalCast": "Mirai Shida",
+        "lastEnglishDubbingActor": "Mae Whitman",
+        "still": ""
+      },
+      {
+        "name": "Hattori",
+        "originalCast": "Jun Kunimura",
+        "lastEnglishDubbingActor": "Mandy Patinkin",
+        "still": ""
+      },
+      {
+        "name": "Mrs. Kurokawa",
+        "originalCast": "Shinobu Otake",
+        "lastEnglishDubbingActor": "Jennifer Grey",
+        "still": ""
+      },
+      {
+        "name": "Giovanni Battista Caproni",
+        "originalCast": "Nomura Mansai",
+        "lastEnglishDubbingActor": "Stanley Tucci",
+        "still": ""
+      },
+      {
+        "name": "Kinu",
+        "originalCast": "Haruka Shibuya",
+        "lastEnglishDubbingActor": "Mae Whitman",
+        "still": ""
+      },
+      {
+        "name": "Sone",
+        "originalCast": "N/A",
+        "lastEnglishDubbingActor": "Elijah Wood",
+        "still": ""
+      },
+      {
+        "name": "Mitsubishi employee",
+        "originalCast": "N/A",
+        "lastEnglishDubbingActor": "Ronan Farrow",
+        "still": ""
+      },
+      {
+        "name": "Katayama",
+        "originalCast": "N/A",
+        "lastEnglishDubbingActor": "Darren Criss",
+        "still": ""
+      },
+      {
+        "name": "Flight Engineer",
+        "originalCast": "N/A",
+        "lastEnglishDubbingActor": "David Cowgill",
+        "still": ""
+      }
+    ],
+    "awards": [
+      "Annie Awards; Writing in an Animated Feature Production",
+      "Japan Academy Prize; Best Music Score",
+      "Mill Valley Film Festival; Audience Favorite - Animation"
+    ],
+    "synopsis": "Jiro is fascinated by aviation but unable to become a pilot due to a medical condition. He moves to Tokyo in 1923, going on to become an accomplished airplane designer. As rumors of war circulate, a chance encounter leads him to love.",
+    "reviews": { "rottenTomatoes": "88%", "imdb": "7.7/10" }
+  },
+  "the tale of princess kaguya": {
+    "title": "The Tale of the Princess Kaguya",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/The_Tale_of_the_Princess_Kaguya_%28poster%29.jpg/220px-The_Tale_of_the_Princess_Kaguya_%28poster%29.jpg",
+    "genre": "Fantasy/Drama",
+    "rating": "PG",
+    "release": "November 23, 2013",
+    "director": "Isao Takahata",
+    "screenwriters": ["Isao Takahata", "Riko Sakaguchi"],
+    "producers": ["Yoshiaki Nishimura"],
+    "music": "Joe Hisaishi",
+    "hepburn": "Kaguya-hime no Monogatari",
+    "runtimeMinutes": "137",
+    "budgetUSD": "49,000,000",
+    "boxOfficeUSD": "27,000,000",
+    "character": [
+      {
+        "name": "Princess Kaguya",
+        "originalCast": "Aki Asakura",
+        "lastEnglishDubbingActor": "Chloë Grace Moretz",
+        "still": ""
+      },
+      {
+        "name": "Sutemaru",
+        "originalCast": "Kengo Kora",
+        "lastEnglishDubbingActor": "Darren Criss",
+        "still": ""
+      },
+      {
+        "name": "The Bamboo Cutter",
+        "originalCast": "Takeo Chii",
+        "lastEnglishDubbingActor": "James Caan",
+        "still": ""
+      },
+      {
+        "name": "The Bamboo Cutter's Wife / The Narrator",
+        "originalCast": "Nobuko Miyamoto",
+        "lastEnglishDubbingActor": "Mary Steenburgen",
+        "still": ""
+      },
+      {
+        "name": "Lady Sagami",
+        "originalCast": "Atsuko Takahata",
+        "lastEnglishDubbingActor": "Lucy Liu",
+        "still": ""
+      },
+      {
+        "name": "Me no Warawa",
+        "originalCast": "Tomoko Tabata",
+        "lastEnglishDubbingActor": "Hynden Walch",
+        "still": ""
+      },
+      {
+        "name": "Inbe no Akita",
+        "originalCast": "Tatekawa Shinosuke",
+        "lastEnglishDubbingActor": "George Segal",
+        "still": ""
+      },
+      {
+        "name": "Prince Ishitsukuri",
+        "originalCast": "Takaya Kamikawa",
+        "lastEnglishDubbingActor": "James Marsden",
+        "still": ""
+      },
+      {
+        "name": "Lord Minister of the Right Abe",
+        "originalCast": "Hikaru Ijūin",
+        "lastEnglishDubbingActor": "Oliver Platt",
+        "still": ""
+      },
+      {
+        "name": "Great Counselor Otomo",
+        "originalCast": "Ryudo Uzaki",
+        "lastEnglishDubbingActor": "Daniel Dae Kim",
+        "still": ""
+      },
+      {
+        "name": "The Mikado",
+        "originalCast": "Nakamura Shichinosuke II",
+        "lastEnglishDubbingActor": "Dean Cain",
+        "still": ""
+      },
+      {
+        "name": "Prince Kuramochi",
+        "originalCast": "Isao Hashizume",
+        "lastEnglishDubbingActor": "Beau Bridges",
+        "still": ""
+      },
+      {
+        "name": "Middle Counselor Isonokami",
+        "originalCast": "Tamaki Kojo",
+        "lastEnglishDubbingActor": "John Cho",
+        "still": ""
+      }
+    ],
+    "awards": [
+      "Mainichi Film Awards; Animation Film Award",
+      "Asia Pacific Screen Award; Best Animated Feature Film",
+      "Fantastic Fest; Audience Award",
+      "Mill Valley Film Festival; Audience Award for Best Animated Film",
+      "Boston Society of Film Critics Awards; Best Animated Film",
+      "Los Angeles Film Critics Association Awards; Best Animated Film",
+      "Toronto Film Critics Association; Best Animated Feature"
+    ],
+    "synopsis": "Found inside a shining stalk of bamboo by an old bamboo cutter and his wife, a tiny girl grows rapidly into an exquisite young lady. The mysterious young princess enthralls all who encounter her - but ultimately she must confront her fate.",
+    "reviews": { "rottenTomatoes": "100%", "imdb": "8/10" }
+  },
+  "when marnie was there": {
+    "title": "When Marnie Was There",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/When_Marnie_Was_There.png/220px-When_Marnie_Was_There.png",
+    "genre": "Family/Drama",
+    "rating": "PG",
+    "release": "July 19, 2014",
+    "director": "Hiromasa Yonebayashi",
+    "screenwriters": ["Hiromasa Yonebayashi", "Keiko Niwa", "Masashi Ando"],
+    "producers": ["Yoshiaki Nishimura"],
+    "music": "Takatsugu Muramatsu",
+    "hepburn": "Omoide no Mānī",
+    "runtimeMinutes": "103",
+    "budgetUSD": "10,500,000",
+    "boxOfficeUSD": "36,000,000",
+    "character": [
+      {
+        "name": "Anna Sasaki",
+        "originalCast": "Sara Takatsuki",
+        "lastEnglishDubbingActor": "Hailee Steinfeld",
+        "still": ""
+      },
+      {
+        "name": "Marnie (young)",
+        "originalCast": "Kasumi Arimura",
+        "lastEnglishDubbingActor": "Kiernan Shipka",
+        "still": ""
+      },
+      {
+        "name": "Marnie (old)",
+        "originalCast": "Ryoko Moriyama",
+        "lastEnglishDubbingActor": "Catherine O'Hara",
+        "still": ""
+      },
+      {
+        "name": "Sayaka",
+        "originalCast": "Hana Sugisaki",
+        "lastEnglishDubbingActor": "Ava Acres",
+        "still": ""
+      },
+      {
+        "name": "Hisako",
+        "originalCast": "Hitomi Kuroki",
+        "lastEnglishDubbingActor": "Vanessa Williams",
+        "still": ""
+      },
+      {
+        "name": "Yoriko Sasaki",
+        "originalCast": "Nanako Matsushima",
+        "lastEnglishDubbingActor": "Geena Davis",
+        "still": ""
+      },
+      {
+        "name": "Kiyomasa Oiwa",
+        "originalCast": "Susumu Terajima",
+        "lastEnglishDubbingActor": "John C. Reilly",
+        "still": ""
+      },
+      {
+        "name": "Setsu Oiwa",
+        "originalCast": "Toshie Negishi",
+        "lastEnglishDubbingActor": "Grey Griffin",
+        "still": ""
+      },
+      {
+        "name": "Nanny",
+        "originalCast": "Kazuko Yoshiyuki",
+        "lastEnglishDubbingActor": "Ellen Burstyn",
+        "still": ""
+      },
+      {
+        "name": "Tōichi",
+        "originalCast": "Ken Yasuda",
+        "lastEnglishDubbingActor": "Fred Tatasciore",
+        "still": ""
+      },
+      {
+        "name": "Mrs Kadoya",
+        "originalCast": "N/A",
+        "lastEnglishDubbingActor": "Kathy Bates",
+        "still": ""
+      },
+      {
+        "name": "Nobuko Kadoya",
+        "originalCast": "Akiko Yoritsune",
+        "lastEnglishDubbingActor": "Raini Rodriguez",
+        "still": ""
+      },
+      {
+        "name": "Doctor Yamashita",
+        "originalCast": "Yo Oizumi",
+        "lastEnglishDubbingActor": "Bob Bergen",
+        "still": ""
+      },
+      {
+        "name": "Neighborhood Association Officer",
+        "originalCast": "Takuma Oto'o",
+        "lastEnglishDubbingActor": "N/A",
+        "still": ""
+      },
+      {
+        "name": "Art Teacher",
+        "originalCast": "Hiroyuki Morisaki",
+        "lastEnglishDubbingActor": "N/A",
+        "still": ""
+      },
+      {
+        "name": "Gentleman",
+        "originalCast": "Shigeyuki Totsugi",
+        "lastEnglishDubbingActor": "N/A",
+        "still": ""
+      },
+      {
+        "name": "Emily",
+        "originalCast": "Renge Ishikawa",
+        "lastEnglishDubbingActor": "Ashley Johnson",
+        "still": ""
+      },
+      {
+        "name": "Kazuhiko",
+        "originalCast": "N/A",
+        "lastEnglishDubbingActor": "James Sie",
+        "still": ""
+      },
+      {
+        "name": "Takeshi Doi",
+        "originalCast": "N/A",
+        "lastEnglishDubbingActor": "Mikey Kelley",
+        "still": ""
+      }
+    ],
+    "awards": [
+      "Chicago International Children's Film Festival; Best Animated Feature Film"
+    ],
+    "synopsis": "When Anna moves to the seaside to live with her aunt and uncle, she discovers an old mansion, and the mysterious young girl, Marnie, who lives there. The two instantly form a bond that blurs the lines between fantasy and reality.",
+    "reviews": { "rottenTomatoes": "91%", "imdb": "7.7/10" }
+  },
+  "earwig and the witch": {
+    "title": "Earwig and the Witch",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Earwig_and_the_Witch.png/220px-Earwig_and_the_Witch.png",
+    "genre": "Fantasy/Anime",
+    "rating": "PG",
+    "release": "August 27, 2021",
+    "director": "Gorō Miyazaki",
+    "screenwriters": ["Keiko Niwa", "Emi Gunji"],
+    "producers": ["Toshio Suzuki"],
+    "music": "Satoshi Takebe",
+    "hepburn": "Āya to Majo",
+    "runtimeMinutes": "82",
+    "budgetUSD": "Unknown",
+    "boxOfficeUSD": "726,037",
+    "character": [
+      {
+        "name": "Earwig (Āya)",
+        "originalCast": "Kokoro Hirasawa",
+        "lastEnglishDubbingActor": "Taylor Paige Henderson",
+        "still": ""
+      },
+      {
+        "name": "Bella Yaga",
+        "originalCast": "Shinobu Terajima",
+        "lastEnglishDubbingActor": "Vanessa Marshall",
+        "still": ""
+      },
+      {
+        "name": "Mandrake",
+        "originalCast": "Etsushi Toyokawa",
+        "lastEnglishDubbingActor": "Richard E. Grant",
+        "still": ""
+      },
+      {
+        "name": "Thomas",
+        "originalCast": "Gaku Hamada",
+        "lastEnglishDubbingActor": "Dan Stevens",
+        "still": ""
+      },
+      {
+        "name": "Earwig's Mother (Āya's Mother)",
+        "originalCast": "Sherina Munaf",
+        "lastEnglishDubbingActor": "Kacey Musgraves",
+        "still": ""
+      },
+      {
+        "name": "Mr. Jenkins",
+        "originalCast": "Yuji Ueda",
+        "lastEnglishDubbingActor": "JB Blanc",
+        "still": ""
+      },
+      {
+        "name": "Matron",
+        "originalCast": "N/A",
+        "lastEnglishDubbingActor": "Pandora Colin",
+        "still": ""
+      },
+      {
+        "name": "Custard",
+        "originalCast": "N/A",
+        "lastEnglishDubbingActor": "Logan Hannan",
+        "still": ""
+      },
+      {
+        "name": "Phyllis",
+        "originalCast": "N/A",
+        "lastEnglishDubbingActor": "Summer Jenkins",
+        "still": ""
+      },
+      {
+        "name": "Sally",
+        "originalCast": "N/A",
+        "lastEnglishDubbingActor": "Vivienne Rutherford",
+        "still": ""
+      },
+      {
+        "name": "Assistant Matron",
+        "originalCast": "N/A",
+        "lastEnglishDubbingActor": "Alex Cartañá",
+        "still": ""
+      },
+      {
+        "name": "Cook",
+        "originalCast": "N/A",
+        "lastEnglishDubbingActor": "Tom Bromhead",
+        "still": ""
+      },
+      {
+        "name": "Assistant Cook",
+        "originalCast": "N/A",
+        "lastEnglishDubbingActor": "Eva Kaminsky",
+        "still": ""
+      }
+    ],
+    "awards": [""],
+    "synopsis": "Growing up in an orphanage, Earwig has no idea that her mother had magical powers. Her life will take a new turn when a strange family takes her in, and she is forced to live with a selfish witch.",
+    "reviews": { "rottenTomatoes": "29%", "imdb": "4.8/10" }
+  },
+  "how do you live?": {
+    "title": "How Do You Live?",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTkxN2MwNmUtYTQwZC00NmVhLTkxM2ItZjY5ODA4ZDhlYTE4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "genre": "Fantasy/Adventure",
+    "rating": "TBA",
+    "release": "TBA",
+    "director": "Hayao Miyazaki",
+    "screenwriters": ["Hayao Miyazaki"],
+    "producers": ["Toshio Suzuki"],
+    "music": "Joe Hisaishi",
+    "hepburn": "Kimi-tachi wa Dō Ikiru ka",
+    "runtimeMinutes": "TBA",
+    "budgetUSD": "TBA",
+    "boxOfficeUSD": "TBD",
+    "character": [
+      {
+        "name": "",
+        "originalCast": "",
+        "lastEnglishDubbingActor": "",
+        "still": ""
+      }
+    ],
+    "awards": [""],
+    "synopsis": "The film depicts the psychological growth of a teenage boy through interactions with his friends and uncle.",
+    "reviews": { "rottenTomatoes": "TBD", "imdb": "TBD" }
+  }
+}

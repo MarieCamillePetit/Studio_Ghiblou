@@ -5,7 +5,7 @@ export const Header = ({ title }: { title: string }) => {
   return (
     <View style={styles.container}>
       <View style={styles.logo}>
-        <img src={require("../../assets/logo_ghiblou.png")} />
+        {/* <img src={require("../../assets/logo_ghiblou.png")} /> */}
       </View>
       <Text variant="headlineMedium" style={styles.headerText}>
         {title}
