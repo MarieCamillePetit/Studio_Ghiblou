@@ -1,40 +1,17 @@
 import * as React from "react";
 import { Text, View, StyleSheet, SafeAreaView, FlatList } from "react-native";
-// You can import from local files
 
 import { Header } from "../components/Header";
-import { fetchGhibli } from "../hooks/useGhiblou";
-import { useQuery } from "@tanstack/react-query";
+import { fetchGhibli, useGhibloux } from "../hooks/useGhiblou";
 
-interface GhiblouProps {
-  title: string;
-  poster: string;
-  genre: string;
-  release: string;
-  director: string;
-}
-
-interface RenderItemProps {
-  item: GhiblouProps;
-}
-
-const renderItem = (props: RenderItemProps) => {
-  const ghib = props.item;
-
-  return (
-    <View>
-      <Text>Title : {ghib.title}</Text>
-    </View>
-  );
-};
+import { useFilms } from "../hooks/useFilms";
+import { FilmsList } from "../components/FilmsList";
 
 export const HomeScreen = () => {
-  const { isInitialLoading, isError, data } = useQuery(
-    ["ghibloux"],
-    fetchGhibli
-  );
-  console.log("yolo", data);
-  if (isInitialLoading) {
+  // const babane = useGhibloux("castle in the sky");
+  const { data, isLoading, isError } = useFilms();
+
+  if (isLoading) {
     return <Text>Loading…</Text>;
   }
 
@@ -42,25 +19,15 @@ export const HomeScreen = () => {
     return <Text>Error 😕</Text>;
   }
 
-  if (data.results === undefined) {
-    return <Text>Not Found</Text>;
-  }
-
   return (
-    <>
+    <SafeAreaView>
       <View>
         <View>
           <Header title={"Studio Ghiblou"}></Header>
         </View>
       </View>
-      <SafeAreaView>
-        <FlatList
-          data={data}
-          renderItem={renderItem}
-          keyExtractor={(ghib) => ghib.title}
-        />
-      </SafeAreaView>
-    </>
+      <FilmsList data={data} />
+    </SafeAreaView>
   );
 };
 

@@ -1,11 +1,12 @@
-import { View, StyleSheet } from "react-native";
+import React from "react";
+import { View, StyleSheet, Image } from "react-native";
 import { Text } from "react-native-paper";
 
 export const Header = ({ title }: { title: string }) => {
   return (
     <View style={styles.container}>
       <View style={styles.logo}>
-        <img src={require("../../assets/logo_ghiblou.png")} />
+        <Image source={require("../../assets/logo_ghiblou.png")} />
       </View>
       <Text variant="headlineMedium" style={styles.headerText}>
         {title}
