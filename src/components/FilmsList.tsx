@@ -21,12 +21,17 @@ interface RenderItemProps {
 }
 
 const renderItem = (props: RenderItemProps) => {
-  console.log("✅ file: FilmsList.tsx:21 ~ renderItem ~ props", props);
   const title = props.item.key;
   const music = props.item.value.music;
 
   return (
-    <View>
+    <View
+      style={{
+        backgroundColor: "rgba(255,255,255,0.9)",
+        marginBottom: 12,
+        padding: 8,
+      }}
+    >
       <Text variant="displaySmall">{title}</Text>
       <Text variant="bodyMedium">Music by {music}</Text>
     </View>
