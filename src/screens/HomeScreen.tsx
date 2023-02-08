@@ -1,25 +1,68 @@
 import * as React from "react";
-import { Text, View, StyleSheet } from "react-native";
-import Constants from "expo-constants";
-
+import { Text, View, StyleSheet, SafeAreaView, FlatList } from "react-native";
 // You can import from local files
 
-// or any pure javascript modules available in npm
-import { TextInput } from "react-native-paper";
-import { Button } from "react-native-paper";
-
 import { Header } from "../components/Header";
+import { fetchGhibli } from "../hooks/useGhiblou";
+import { useQuery } from "@tanstack/react-query";
 
-export default function App() {
-  const [text, setText] = React.useState("");
+interface GhiblouProps {
+  title: string;
+  poster: string;
+  genre: string;
+  release: string;
+  director: string;
+}
+
+interface RenderItemProps {
+  item: GhiblouProps;
+}
+
+const renderItem = (props: RenderItemProps) => {
+  const ghib = props.item;
+
   return (
     <View>
-      <View>
-        <Header title={"Studio Ghiblou"}></Header>
-      </View>
+      <Text>Title : {ghib.title}</Text>
     </View>
   );
-}
+};
+
+export const HomeScreen = () => {
+  const { isInitialLoading, isError, data } = useQuery(
+    ["ghibloux"],
+    fetchGhibli
+  );
+  console.log("yolo", data);
+  if (isInitialLoading) {
+    return <Text>Loading…</Text>;
+  }
+
+  if (isError) {
+    return <Text>Error 😕</Text>;
+  }
+
+  if (data.results === undefined) {
+    return <Text>Not Found</Text>;
+  }
+
+  return (
+    <>
+      <View>
+        <View>
+          <Header title={"Studio Ghiblou"}></Header>
+        </View>
+      </View>
+      <SafeAreaView>
+        <FlatList
+          data={data}
+          renderItem={renderItem}
+          keyExtractor={(ghib) => ghib.title}
+        />
+      </SafeAreaView>
+    </>
+  );
+};
 
 const styles = StyleSheet.create({
   top: {
