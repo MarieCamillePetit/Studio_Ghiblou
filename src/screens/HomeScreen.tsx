@@ -8,35 +8,15 @@ import Constants from "expo-constants";
 import { TextInput } from "react-native-paper";
 import { Button } from "react-native-paper";
 
+import { Header } from "../components/Header";
+
 export default function App() {
   const [text, setText] = React.useState("");
   return (
-    <View style={styles.container}>
-      <View style={styles.top}>
-        <Text style={styles.paragraph}>SpaceCraft</Text>
+    <View>
+      <View>
+        <Header title={"Studio Ghiblou"}></Header>
       </View>
-
-      <TextInput
-        style={styles.input}
-        label="Email"
-        value={text}
-        onChangeText={(text) => setText(text)}
-      />
-      <TextInput
-        style={styles.input}
-        label="PassWord"
-        value={text}
-        onChangeText={(text) => setText(text)}
-      />
-      <Button
-        style={styles.btn}
-        mode="contained"
-        onPress={() => console.log("Pressed")}
-      >
-        {" "}
-        Login{" "}
-      </Button>
-      <Text style={styles.term}>Read Terms and Conditions.</Text>
     </View>
   );
 }
