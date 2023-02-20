@@ -1,17 +1,24 @@
+import { useNavigation } from "@react-navigation/native";
 import React from "react";
-import { View, StyleSheet, Image } from "react-native";
+import { View, StyleSheet } from "react-native";
 import { Text } from "react-native-paper";
 import { SafeAreaView } from "react-native-safe-area-context";
 
-export const Header = ({ title }: { title: string }) => {
+export const HeaderBack = ({ title }: { title: string }) => {
+  const navigation = useNavigation<any>();
   return (
     <SafeAreaView>
       <View style={styles.container}>
         <View>
-          <Image
-            source={require("../../assets/logo_ghiblou.png")}
-            style={styles.logo}
-          />
+          <Text
+            style={{ paddingTop: 13 }}
+            onPress={() => {
+              /* 1. Navigate to the Details route with params */
+              navigation.goBack();
+            }}
+          >
+            ⬅️ Back
+          </Text>
         </View>
         <View style={{ flex: 1 }}>
           <Text variant="headlineMedium" style={styles.headerText}>

@@ -1,13 +1,14 @@
 import React from "react";
-import { HomeScreen } from "./src/screens/HomeScreen";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
+import { HomeScreen } from "./src/screens/HomeScreen";
+import { Navigator } from "./src/navigation/Navigator";
 
 const queryClient = new QueryClient();
 
 const App = () => {
   return (
     <QueryClientProvider client={queryClient}>
-      <HomeScreen />
+      <Navigator />
     </QueryClientProvider>
   );
 };
