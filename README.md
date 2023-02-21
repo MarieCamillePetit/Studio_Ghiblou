@@ -2,17 +2,17 @@
   <h3 align="center">Studio Ghiblou</h3>
 
   <p align="center">
-    Un petit projet pour découvrir React Native avec <a href="https://davidl.fr/workshop">React Native Bootcamp</a> avec l'utilisation d'une API <a href="https://studio-ghibli-films-api.herokuapp.com/" Ghibli </a>.
+    A small project to discover React Native with <a href="https://davidl.fr/workshop">React Native Bootcamp</a> and with the use of an API. <a href="https://studio-ghibli-films-api.herokuapp.com/" Ghibli </a>.
     <br/>
     <br/>
   </p>
 </p>
 
-Fonctionnalités : 
-- Obtenir la liste des films ghibli
-- Détails de ces films
+Features:
+- Get list of ghibli movies
+- Details of these films
 
-Aperçu : 
+Preview : 
 
 <img src="https://github.com/MarieCamillePetit/Studio_Ghiblou/blob/master/assets/apercu.gif" width="230">
 
@@ -26,6 +26,9 @@ yarn start
 
 or you can use : <br/>
 https://expo.dev/@mariecamillepetit/studio-ghiblou?serviceType=classic&distribution=expo-go
+
+
+
 ## Authors
 
 * **MarieCamillePetit** - *LP DIM STUDENT* - [MarieCamillePetit](https://github.com/MarieCamillePetit)
