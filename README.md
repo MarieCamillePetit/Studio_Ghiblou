@@ -14,7 +14,7 @@ Fonctionnalités :
 
 Aperçu : 
 
-<img align='right' src="https://github.com/MarieCamillePetit/Studio_Ghiblou/blob/master/assets/apercu.gif" width="230">
+<img src="https://github.com/MarieCamillePetit/Studio_Ghiblou/blob/master/assets/apercu.gif" width="230">
 
 ## Getting Started
 
@@ -22,7 +22,7 @@ Aperçu :
 yarn
 yarn start
 ```
-<img align='right' src="https://github.com/MarieCamillePetit/Studio_Ghiblou/blob/master/assets/qrcode.PNG" width="230">
+<img src="https://github.com/MarieCamillePetit/Studio_Ghiblou/blob/master/assets/qrcode.PNG" width="230">
 
 
 ## Authors
