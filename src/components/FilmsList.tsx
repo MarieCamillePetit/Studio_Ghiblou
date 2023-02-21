@@ -69,7 +69,7 @@ export const renderItem = (props: RenderItemProps) => {
           padding: 2,
         }}
       >
-        <Card>
+        <Card style={{ margin: 10 }}>
           <Card.Title
             titleVariant="displaySmall"
             title={title}

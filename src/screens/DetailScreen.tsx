@@ -18,7 +18,7 @@ export const DetailScreen = ({ route }: any) => {
       <ScrollView>
         <HeaderBack title={"Studio Ghiblou"}></HeaderBack>
 
-        <Card style={{ margin: 5 }}>
+        <Card style={{ margin: 10 }}>
           <Card.Title
             titleVariant="displaySmall"
             title={title}

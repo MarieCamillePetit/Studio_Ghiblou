@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Ghiblou",
-    "slug": "Ghiblou",
+    "slug": "studio-ghiblou",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/logo_ghiblou.png",
@@ -14,18 +14,28 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": ["**/*"],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.mariecamillepetit.studioghiblou"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.mariecamillepetit.studioghiblou"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9f9e0914-3aa6-4b5d-9815-2d6e2b612fd7"
+      }
+    },
+    "owner": "mariecamillepetit"
   }
 }
