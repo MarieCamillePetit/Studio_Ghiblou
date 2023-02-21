@@ -24,7 +24,8 @@ yarn start
 ```
 <img src="https://github.com/MarieCamillePetit/Studio_Ghiblou/blob/master/assets/qrcode.PNG" width="230">
 
-
+or you can use : <br/>
+https://expo.dev/@mariecamillepetit/studio-ghiblou?serviceType=classic&distribution=expo-go
 ## Authors
 
 * **MarieCamillePetit** - *LP DIM STUDENT* - [MarieCamillePetit](https://github.com/MarieCamillePetit)
