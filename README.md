@@ -2,7 +2,7 @@
   <h3 align="center">Studio Ghiblou</h3>
 
   <p align="center">
-    A small project to discover React Native with <a href="https://davidl.fr/workshop">React Native Bootcamp</a> and with the use of an API. <a href="https://studio-ghibli-films-api.herokuapp.com/" Ghibli </a>.
+    A small project to discover React Native with <a href="https://davidl.fr/workshop">React Native Bootcamp</a> and with the use of an API. <a href="https://studio-ghibli-films-api.herokuapp.com/"> Ghibli </a>
     <br/>
     <br/>
   </p>
